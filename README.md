@@ -5,3 +5,9 @@
 ### 365 Rooms
 
 ## 1 Year!
+
+---
+
+Each day is one room, one thing of note, and one reason to go there. 
+
+Empty rooms and corridors to be added later?
