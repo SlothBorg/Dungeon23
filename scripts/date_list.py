@@ -57,15 +57,18 @@ themes = [
     'Gold'
 ]
 
+print('| Day         | Level       | Theme       |')
+print('| ----------- | ----------- | ----------- |')
+
 for i in range(1, 365):
     if i > 1:
         date = start_date + datetime.timedelta(i)
     else:
         date = start_date
 
-    week_num = min(date.isocalendar()[1] - 1, 0)
+    if i == 1:
+        week_num = 1
+    else:
+        week_num = date.isocalendar()[1]
 
-    print('**Day**: ' + str(i))
-    print('* **Level**: ' + str(date.month))
-    print('* **Theme**: ' + themes[week_num])
-    print()
+    print('| ' + str(i) + ' | ' + str(date.month) + ' | ' + themes[week_num-1] + ' |')
