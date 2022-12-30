@@ -53,6 +53,12 @@ Empty rooms and corridors to be added later?
 
 * [Jaquaying the Dungeon ](https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon)
 * [Musings on space in and around dungeons](https://old.reddit.com/r/Dungeon23/comments/zjazkh/musings_on_space_in_and_around_dungeons/)
+* Advice on Traps from [Dungeon Masterpiece](https://www.youtube.com/watch?v=bJ5GFyWE4WI)
+  * ### Good traps are:
+    * obviously signposted.
+    * extreamly dangerous.
+    * Simple enought o be explained with words.
+    * So Clear, simple, dangerous.
 
 
 ---
