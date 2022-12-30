@@ -28,6 +28,19 @@ Empty rooms and corridors to be added later?
     * [Building Living Dungeons](https://www.youtube.com/watch?v=rhZ3q2cSb2U)
     * [Stop Hiding Traps](https://www.youtube.com/watch?v=RY_IRqx5dtI)
     * [The Fourth Pillar of DnD](https://www.youtube.com/watch?v=2RBUR_gzsm0)
+  * [So You Want to Build a Dungeon?](https://alldeadgenerations.blogspot.com/2021/03/so-you-want-to-build-dungeon.html)
+  * [Old School Dungeon Design Guidelines](https://grognardia.blogspot.com/2009/02/old-school-dungeon-design-guidelines.html)
+  * [how i did my megadungeon](http://swampofmonsters.blogspot.com/2020/05/how-i-did-my-megadungeon.html)
+  * [The Anatomy of a Dungeon Map](https://beyondfomalhaut.blogspot.com/2020/05/blog-anatomy-of-dungeon-map.html)
+  * [Bite-Sized Dungeons](https://traversefantasy.blogspot.com/2022/11/bite-sized-dungeons.html)
+  * [A Comprehensive Guide to Secret Doors](https://goblinpunch.blogspot.com/2018/08/a-comprehensive-guide-to-secret-doors.html)
+  * [Jaquaying the Dungeon ](https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon)
+  * [Interesting and Useful Dungeon Descriptions](http://blog.trilemma.com/2014/10/interesting-and-useful-dungeon.html)
+  * [Quality Dungeons](https://alexschroeder.ch/wiki/2010-02-05_Quality_Dungeons)
+  * [What Is Tested?](https://goblinpunch.blogspot.com/2015/05/what-is-tested.html)
+  * [Dungeon Checklist](https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html)
+  * [1d124 OSR-Style Challenges](https://goblinpunch.blogspot.com/2016/03/1d135-osr-style-challenges.html)
+  * [34 Good Traps](https://www.bastionland.com/2018/08/34-good-traps.html)
 
 ### Dungeon 23 off shoots 
 
