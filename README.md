@@ -20,7 +20,14 @@ Empty rooms and corridors to be added later?
 * [23 features for Dungeon 23](http://riseupcomus.blogspot.com/2022/12/23-dungeon-features-for-dungeon23.html)
 * [Dungeon 23 Helper](https://hexedpress.itch.io/dungeon23-helper)
   * [Video explaining Dungeon 23 Helper](https://www.youtube.com/watch?v=3tdx0NWl34U)
-* [D23 - Archipelago](https://d23archipelago.blogspot.com/)  
+* [D23 - Archipelago](https://d23archipelago.blogspot.com/)
+* From *The Glatisant: Issue #35*
+  * [Maze Rats](https://www.drivethrurpg.com/product/197158/Maze-Rats)
+  * Questing Beast - Dungeon Series
+    * [Nine Dungeon Design Secrets](https://www.youtube.com/watch?v=5tpRLEfKCTs)
+    * [Building Living Dungeons](https://www.youtube.com/watch?v=rhZ3q2cSb2U)
+    * [Stop Hiding Traps](https://www.youtube.com/watch?v=RY_IRqx5dtI)
+    * [The Fourth Pillar of DnD](https://www.youtube.com/watch?v=2RBUR_gzsm0)
 
 ### Dungeon 23 off shoots 
 
