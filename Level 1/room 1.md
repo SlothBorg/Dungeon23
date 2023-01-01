@@ -1,4 +1,4 @@
-A **dank** room of **mossy** **flagstone**, **low ceiling**. 
+A **dank** room of **mossy** **flagstone**, and a **low ceiling**. 
 
 In the center a large **iron grate** covers a low **well**.
 
