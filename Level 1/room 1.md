@@ -12,4 +12,4 @@ The victim of a trap? A dire warning? An ancient shrine?
 
 ### Rumor
 
-Before his death in **the below** Krostrak Bluntborn, spoke of a **forbidden well** dug deep into the stone, the waters flowed from the **River of Death**.
+Before his death in **the below** **Krostrak Bluntborn**, spoke of a **forbidden well** dug deep into the stone, the waters flowed from the **River of Death**.
