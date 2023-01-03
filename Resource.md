@@ -4,7 +4,7 @@
 
 * [Dungeon 23 Challenge](https://followmeanddie.com/2022/12/09/dungeon-23-challenge/?utm_source=rss&utm_medium=rss&utm_campaign=dungeon-23-challenge)
 * [Level Themes by day](Themes.md)
-* [WIn COnditions - #Dungeon23](https://seanmccoy.substack.com/p/dungeon23)
+* [Win COnditions - #Dungeon23](https://seanmccoy.substack.com/p/dungeon23)
 * [23 features for Dungeon 23](http://riseupcomus.blogspot.com/2022/12/23-dungeon-features-for-dungeon23.html)
 * [Dungeon 23 Helper](https://hexedpress.itch.io/dungeon23-helper)
   * [Video explaining Dungeon 23 Helper](https://www.youtube.com/watch?v=3tdx0NWl34U)
