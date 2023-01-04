@@ -1,5 +1,4 @@
 import datetime
-import calendar
 
 start_date = datetime.datetime.strptime('01/01/23', "%m/%d/%y")
 themes = [
