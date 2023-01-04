@@ -12,6 +12,11 @@ A body falls silently from above plummeting to mass of **rotting flesh**, as it 
 
 The bones and rotting flesh shift and move when walked upon. The further into the room one ventures the more bones move, causing a quicksand like effect.
 
+### Faction
+
+* Local settlements and religious groups use this pit to dispose of corpses.
+* Daring individuals who need a corpse for whatever purpose have been known to brave the journey into the pit to retrieve their prize.
+
 ### Local Lore
 
 **The Bone pit** is where local dispose of corpses. All corpses thrown into the pit are supposed to be properly cleansed, to prevent them from becoming one of the undead,
