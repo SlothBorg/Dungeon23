@@ -1,16 +1,16 @@
-The air is **damp and stagnant**, the sound of **footsteps echoing** off the **rough stone** of the passage.
+The air is **damp and stagnant**, the sound of your **footsteps echo** off the **rough stone**.
 
-The rough hewn stones of the tunnel floor are cracked, and covered in broken stone fragments. **Rivulets of brackish** water drain into the cracks leaving a layer of **algae** on the broken stones.
+The tunnel floor is cracked, and covered in broken stone fragments. **Rivulets of brackish** water drain into the cracks leaving a layer of **algae** on the broken stones and rubble.
 
-A few feet further down the hall a series of **crude drawings** done in **faded red paint**, seem to depict a warning of some sort.
+Several feet ahead of you a series of **crude drawings** done in **faded red paint**, seem to depict a warning of some sort.
 
-A few **rusted and bent** pitons lie scattered on the floor, along side a **grappling hook** tied to a length of **moldering** rope.
+Half a dozen **rusted and bent** pitons lie scattered on the floor, along side a **grappling hook** tied to a length of **moldering** rope.
 
 ---
 
 ### Dilemma
 
-Beyond the **crude drawings** the floor becomes unstable, and is at risk of collapsing into an underground stream, the floor has collapsed and repaird many times.
+Beyond the **crude drawings** the floor becomes unstable, and is at risk of collapsing into an underground stream, the floor has collapsed and repaired many times.
 
 ### Faction
 
