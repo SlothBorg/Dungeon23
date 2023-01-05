@@ -6,10 +6,6 @@
 
 {{ QUESTIONS }}
 
-### Items
-
-{{ ITEMS }}
-
 ### Inhabitant
 
 {{ INHABITANTS }}

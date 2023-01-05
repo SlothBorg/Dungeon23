@@ -8,12 +8,6 @@ As your eyes adjust, you start to notice mostly **decayed remains** hung upon th
 
 ---
 
-### Items
-
-Through out the room, there are bones that have had wires of various valuable metals wound around them.
-
-The Obsidian basin.
-
 ### Inhabitant
 
 If disturbed there is a fair chance that the corpses hung upon the walls, contain a ghost or some remnant of their former self.
