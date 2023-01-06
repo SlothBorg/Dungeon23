@@ -5,9 +5,7 @@
 # [Dungeon23](https://seanmccoy.substack.com/p/dungeon23)
 ---
 
-Each day is one room, one thing of note, and one reason to go there. 
-
-Empty rooms and corridors to be added later?
+# [Enter the Dungeon](Level%201/Room%201.md)
 
 ---
 
