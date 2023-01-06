@@ -1,15 +1,17 @@
-A **dank** room of **mossy** **flagstone**, and a **low ceiling**. 
+The chamber is **dank**, **moss clings** clings to the **flagstone**, and **low ceiling**. 
 
-In the center a large **iron grate** covers a low **well**.
+In the center a rusted **iron grate** covers a low **well**.
 
-A hunched **human skeleton** sits atop the well, **impaled** upon a rusted spear.
+On top of which is hunched **human skeleton**, **impaled** a rusted spear instead of spine.
 
 ---
 
-### Dilemma
+### More Info:
 
-The victim of a trap? A dire warning? An ancient shrine?
+The skeletons' spine as been replaced by the spear, the victim of a trap? A dire warning? An ancient shrine?
 
-### Rumor
+The well leads down to a larger cistern, {{ ROOM #? }}, the cistern is fed by the underground stream in [Room 5](Room%205.md)
 
-Before his death in **the below** **Krostrak Bluntborn**, spoke of a **forbidden well** dug deep into the stone, the waters within flow from the **River of Death**.
+#### Rumor & Local Lore
+
+* Before his death in **the below** **Krostrak Bluntborn**, spoke of a **forbidden well** dug deep into the stone, the waters within flow from the **River of Death**.

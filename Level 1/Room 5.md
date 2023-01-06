@@ -1,6 +1,6 @@
-The air is **damp and stagnant**, the sound of your **footsteps echo** off the **rough stone**.
+The air is **damp and stagnant**, the sound of your **footsteps echo** off the **rough stone** walls.
 
-The tunnel floor is cracked, and covered in broken stone fragments. **Rivulets of brackish** water drain into the cracks leaving a layer of **algae** on the broken stones and rubble.
+The tunnel floor is cracked, strewn with scattered fragments of stone and rubble. **Rivulets of brackish** water drain into the cracks leaving a layer of **algae** on the broken stones and rubble.
 
 Several feet ahead of you a series of **crude drawings** done in **faded red paint**, seem to depict a warning of some sort.
 
@@ -8,10 +8,14 @@ Half a dozen **rusted and bent** pitons lie scattered on the floor, along side a
 
 ---
 
-### Dilemma
+### More Info:
 
-Beyond the **crude drawings** the floor becomes unstable, and is at risk of collapsing into an underground stream, the floor has collapsed and repaired many times.
+The crude drawings depict stylized images skulls and other symbols meant identify the area as belonging to the scavenger gang. They hint at danger but not the nature of it.
 
-### Faction
+Beyond the **crude drawings** the floor becomes unstable, and is at risk of collapsing into an underground stream. The floor has collapsed and been repaired many times.
+
+The Underground stream leads into the Cistern under the well from [Room 1](Room%201.md)
+
+#### Faction
 
 * The drawings done in red, marks the end of the territory of a **gang of scavengers**, and serves as a warning of the unstable floor ahead.

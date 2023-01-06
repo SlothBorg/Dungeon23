@@ -1,6 +1,6 @@
-An **arched tunnel** stretches before you, sloping downward. 
+An **arched tunnel** stretches before you, gradually sloping downward, and just as gradually narrowing. 
 
-**Nitches** holding countless **mummified** and **skeletal** remains line the wall, look almost as structural as the cold stone.  
+**Niches** holding countless **mummified** and **skeletal** remains line the wall, look almost as structural as the cold stone.  
 
 The air is **musty** and still, each breath **stirring** the dust.
 
@@ -8,6 +8,14 @@ Squeezing pass the protruding bones, would be tricky but doable ... you hope.
 
 ---
 
-### Local Lore
+### More Info:
 
-*To go down the Hall of Bones* often shortened to *down the Hall of Bones* a local idiom, meaning to foolishly on. 
+The tunnel gets narrower from the entrance where a large human can comfortable walk, to the point of a human having to turn sideways and be careful in moving.
+
+The bones protruding from the niches scratch and cut passersby,
+
+Some of the corpses have small tokens, semi precious stones or other trinkets and treasures.
+
+#### Rumor & Local Lore
+
+* *To go down the Hall of Bones* often shortened to *down the Hall of Bones* a local idiom, meaning to foolishly on. 

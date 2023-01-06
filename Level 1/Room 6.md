@@ -4,6 +4,10 @@
 
 ### More Info:
 
+#### Dilemma
+
+{{ QUESTIONS }}
+
 #### Inhabitant
 
 {{ INHABITANTS }}
