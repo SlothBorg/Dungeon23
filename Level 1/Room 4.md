@@ -14,16 +14,13 @@ The basin is made from obsidian but dulled with soot from the many ritual fires 
 
 It is possible, through the use of the right ritual and proper sacrifice to use this basin to commune relatively peacefully with the ghosts tied to this place.
 
-#### Inhabitant
-
-If disturbed there is a fair chance that the corpses hung upon the walls, contain a ghost or some remnant of their former self.
-
-Perhaps enough intelligence still lingers for them to be dealt with? 
-
-#### Faction
+#### Faction & Inhabitant
 
 * A **sect of necromancers** has recently come to study this place.
 * An **aged soothsayer**, has long come to this place on the **night of the dark moon** to converse with the spirits that cling to this place.
+* If disturbed there is a fair chance that the corpses hung upon the walls, contain a ghost or some remnant of their former self.
+ 
+  Perhaps enough intelligence still lingers for them to be dealt with? 
 
 #### Rumor & Local Lore
 

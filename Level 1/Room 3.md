@@ -12,7 +12,7 @@ A body falls silently from above plummeting to mass of **rotting flesh**, as it 
 
 The bones and rotting flesh shift and move when walked upon. The further into the room one ventures the more bones move, causing a quicksand like effect.
 
-#### Faction
+#### Faction & Inhabitant
 
 * Local settlements and religious groups use this pit to dispose of corpses.
 * Daring individuals who need a corpse for whatever purpose have been known to brave the journey into the pit to retrieve their prize.

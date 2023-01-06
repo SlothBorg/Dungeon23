@@ -10,8 +10,8 @@ On top of which is hunched **human skeleton**, **impaled** a rusted spear instea
 
 The skeletons' spine as been replaced by the spear, the victim of a trap? A dire warning? An ancient shrine?
 
-The well leads down to a larger cistern, {{ ROOM #? }}, the cistern is fed by the underground stream in [Room 5](Room%205.md)
+The well leads down to a larger cistern, [Room 6](Room%206.md) , the cistern is fed by the underground stream in [Room 5](Room%205.md)
 
 #### Rumor & Local Lore
 
-* Before his death in **the below** **Krostrak Bluntborn**, spoke of a **forbidden well** dug deep into the stone, the waters within flow from the **River of Death**.
+* Before his death in **The Below** **Krostrak Bluntborn**, spoke of a **forbidden well** dug deep into the stone, the waters within flow from the **River of Death**.

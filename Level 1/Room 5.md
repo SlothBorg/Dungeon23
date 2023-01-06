@@ -1,6 +1,6 @@
 The air is **damp and stagnant**, the sound of your **footsteps echo** off the **rough stone** walls.
 
-The tunnel floor is cracked, strewn with scattered fragments of stone and rubble. **Rivulets of brackish** water drain into the cracks leaving a layer of **algae** on the broken stones and rubble.
+The tunnel floor is cracked, strewn with scattered fragments of stone and rubble. **Rivulets** of water drain into the cracks leaving a sheen of **algae** on the rubble.
 
 Several feet ahead of you a series of **crude drawings** done in **faded red paint**, seem to depict a warning of some sort.
 
@@ -16,6 +16,6 @@ Beyond the **crude drawings** the floor becomes unstable, and is at risk of coll
 
 The Underground stream leads into the Cistern under the well from [Room 1](Room%201.md)
 
-#### Faction
+#### Faction & Inhabitant
 
 * The drawings done in red, marks the end of the territory of a **gang of scavengers**, and serves as a warning of the unstable floor ahead.

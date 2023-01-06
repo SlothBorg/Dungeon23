@@ -4,18 +4,11 @@
 
 ### More Info:
 
-#### Inhabitant
+#### Faction & Inhabitant
 
-{{ INHABITANTS }}
+{{ FACTION & INHABITANTS}}
 
-#### Faction
+#### Rumor & Local Lore
 
-{{ FACTION }}
+{{ RUMORS & LORE }}
 
-#### Rumor
-
-{{ RUMORS }}
-
-#### Local Lore
-
-{{ LORE }}
