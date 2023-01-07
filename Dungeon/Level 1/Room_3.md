@@ -6,11 +6,15 @@ How far below that the true bottom of the pit is, you can not guess.
 
 A body falls silently from above plummeting to mass of **rotting flesh**, as it impacts, the mass of **decaying matter and bones** shifts slightly and you are hit again with the **nauseating stench**. 
 
+On the far side, you make out the opening to another passage, half obscured by corpses. 
+
 ---
 
 ### More Info:
 
 The bones and rotting flesh shift and move when walked upon. The further into the room one ventures the more bones move, causing a quicksand like effect.
+
+The partially obscured passage across the pit leads to [Room 7](Room_7.md)
 
 #### Faction & Inhabitant
 

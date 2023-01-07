@@ -13,7 +13,7 @@ def create_room():
     template_file = 'Room Template.md'
 
     if exists(template_file):
-        new_room = 'Level ' + str(WEEK) + '/Room ' + str(DAY) + '.md'
+        new_room = 'Dungeon/Level ' + str(WEEK) + '/Room_' + str(DAY) + '.md'
         copy(template_file, new_room)
 
 
