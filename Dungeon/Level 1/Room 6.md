@@ -12,7 +12,7 @@ The stream that once fed the cistern has dried up, and it enters the cistern sev
 
 Under the stagnant water the floor in uneven.
 
-Several corpses are hidden under the water, most have fallen to their death from [Room 5](Room%205.md), the room itself serves as a potential treasure than anything within the room.
+Several corpses are hidden under the water, most have fallen to their death from [Room 5](Room 5.md), the room itself serves as a potential treasure than anything within the room.
 
 #### Faction & Inhabitant
 

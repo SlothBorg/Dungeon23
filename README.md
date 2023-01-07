@@ -5,11 +5,11 @@
 # [Dungeon23](https://seanmccoy.substack.com/p/dungeon23)
 ---
 
-# [Enter the Dungeon](Level%201/Room%201.md)
+# [Enter the Dungeon](Dungeon/Level%201/Room%201.md)
 
 ---
 
-I've collected some [resources](Resource.md) that are related to Dungeon23.
+I've collected some [resources](Resource/README.md) that are related to Dungeon23.
 
 From the root dir, run `python3 scripts/make_room.py` to scaffold out a new room and give you some suggestions on what is in it.
 

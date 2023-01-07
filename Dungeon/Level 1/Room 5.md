@@ -14,7 +14,7 @@ The crude drawings depict stylized images skulls and other symbols meant identif
 
 Beyond the **crude drawings** the floor becomes unstable, and is at risk of collapsing into an underground stream. The floor has collapsed and been repaired many times.
 
-The Underground stream leads into the Cistern under the well from [Room 1](Room%201.md)
+The Underground stream leads into the Cistern under the well from [Room 1](Room 1.md)
 
 #### Faction & Inhabitant
 
