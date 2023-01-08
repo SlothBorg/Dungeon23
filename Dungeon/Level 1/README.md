@@ -1,5 +1,7 @@
 # Level 1
 
+In general I am designing this dungeon, without a map in mind, but I find it helpful to have a map at times. I think of the below maps as more of a possible layout than a fixed layout.
+
 ## Week 1
 
 The first level, exists on a roughly two different planes, with [Room 6](Room_6.md), and the stream that connects [Room 6](Room_6.md) and [Room 7](Room_7.md) on one level, and the rest of the rooms on another. 
