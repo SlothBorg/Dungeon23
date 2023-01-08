@@ -5,6 +5,10 @@
 # [Dungeon23](https://seanmccoy.substack.com/p/dungeon23)
 ---
 
+I am designing this dungeon as a series of rooms / encounters to be used in what ever order or combination works. As I write each week I imagine them as a sub-section within a level.
+
+For ease of understanding I'll map out each week, but it is in no way the fixed or definitive layout, more a suggestions.
+
 # [Enter the Dungeon](Dungeon/Level%201/README.md)
 
 ---
