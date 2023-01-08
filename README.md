@@ -5,7 +5,7 @@
 # [Dungeon23](https://seanmccoy.substack.com/p/dungeon23)
 ---
 
-# [Enter the Dungeon](Dungeon/Level%201/Room_1.md)
+# [Enter the Dungeon](Dungeon/Level%201/README.md)
 
 ---
 
