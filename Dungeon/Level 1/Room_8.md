@@ -12,9 +12,8 @@ From under the closest cairn, you can see a glint of steel.
 
 ### More Info:
 
-Anyone familiar with the arcane will recognize the telltale signs of raw mana. In the section of the cave beyond the rubble, {1d4} **Star Elementals** rest, they still resting from burying the scavengers.
-
-Under each cairn, is a corpse, while the flesh has mostly rotted away, the steel they carried in life, is as of yet un-rusted.
+* Anyone familiar with the arcane will recognize the telltale signs of raw mana. In the section of the cave beyond the rubble, {1d4} **Star Elementals** rest, they still resting from burying the scavengers.
+* Under each cairn, is a corpse, while the flesh has mostly rotted away, the steel they carried in life, is as of yet un-rusted.
 
 #### Faction & Inhabitant
 

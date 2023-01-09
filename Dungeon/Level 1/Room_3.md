@@ -12,9 +12,8 @@ On the far side, you make out the opening to another passage, half obscured by c
 
 ### More Info:
 
-The bones and rotting flesh shift and move when walked upon. The further into the room one ventures the more bones move, causing a quicksand like effect.
-
-The partially obscured passage across the pit leads to [Room 7](Room_7.md)
+* The bones and rotting flesh shift and move when walked upon. The further into the room one ventures the more bones move, causing a quicksand like effect.
+* The partially obscured passage across the pit leads to [Room 7](Room_7.md)
 
 #### Faction & Inhabitant
 

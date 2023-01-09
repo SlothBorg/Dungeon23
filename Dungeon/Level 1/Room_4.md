@@ -10,9 +10,8 @@ As your eyes adjust, you start to notice mostly **decayed remains** hung upon th
 
 ### More Info:
 
-The basin is made from obsidian but dulled with soot from the many ritual fires that have been burnt in it.
-
-It is possible, through the use of the right ritual and proper sacrifice to use this basin to commune relatively peacefully with the ghosts tied to this place.
+* The basin is made from obsidian but dulled with soot from the many ritual fires that have been burnt in it.
+* It is possible, through the use of the right ritual and proper sacrifice to use this basin to commune relatively peacefully with the ghosts tied to this place.
 
 #### Faction & Inhabitant
 

@@ -10,11 +10,9 @@ Squeezing pass the protruding bones, would be tricky but doable ... you hope.
 
 ### More Info:
 
-The tunnel gets narrower from the entrance where a large human can comfortable walk, to the point of a human having to turn sideways and be careful in moving.
-
-The bones protruding from the niches scratch and cut passersby,
-
-Some of the corpses have small tokens, semi precious stones or other trinkets and treasures.
+* The tunnel gets narrower from the entrance where a large human can comfortable walk, to the point of a human having to turn sideways and be careful in moving.
+* The bones protruding from the niches scratch and cut passersby,
+* Some of the corpses have small tokens, semi precious stones or other trinkets and treasures.
 
 #### Rumor & Local Lore
 
