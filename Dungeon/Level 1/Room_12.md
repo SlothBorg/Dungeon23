@@ -2,6 +2,8 @@ A **long wide corridor**, of **stone blocks** each carved with an **intricate sp
 
 Scattered along the length and breadth of the corridor are corpses, near a hundred of them. Dwarves, Orcs, Goblins, Humans and more, all the dead of some battle. The stillness and dryness of the air makes it hard to tell how long they have been dead, but the foul stench of rot has not yet taken hold.
 
+Here and there, a corpse's skin is **tinged with yellow**, the skin marred by circles of many **tiny needle like puncture wounds**, **slowly oozing puss and blood** 
+
 ---
 
 ### More Info:
