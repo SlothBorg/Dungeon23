@@ -4,6 +4,8 @@
 
 ### More Info:
 
+{{ DOOR }}
+
 #### Faction & Inhabitant
 
 {{ FACTION & INHABITANTS}}

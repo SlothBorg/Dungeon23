@@ -1,6 +1,6 @@
 from datetime import date
 from datetime import datetime
-from os.path import exists
+from os import path
 from shutil import copy
 from random import randint
 
@@ -10,9 +10,10 @@ def get_week():
 
 
 def create_room():
-    template_file = 'Room Template.md'
 
-    if exists(template_file):
+    template_file = path.dirname(path.realpath(__file__)) + '/templates/dungeon.md'
+
+    if path.exists(template_file):
         new_room = 'Dungeon/Level ' + str(TODAY.month) + '/Room_' + str(DAY) + '.md'
         copy(template_file, new_room)
 
