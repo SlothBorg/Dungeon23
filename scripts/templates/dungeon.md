@@ -4,7 +4,7 @@
 
 ### More Info:
 
-{{ DOOR }}
+{{ INFO }}
 
 #### Faction & Inhabitant
 
