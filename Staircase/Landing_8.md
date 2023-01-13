@@ -1,3 +1,1 @@
-* A: **Decorative**
-* Made from: **Shadow**
-* It is: **Shifts and swirls**, **Is not real**
+**Shadows** play across the **cold stone work** of the landing, the shape of a door appears and disappears.

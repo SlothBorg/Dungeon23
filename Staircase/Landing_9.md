@@ -1,3 +1,1 @@
-* A: **Decorative**
-* Made from: **Light**
-* It is: **Gleaming**, **Iron Bars**
+This landing contains no doors, only a steep fall on all sides and a staircase leading off into the misty distance.
