@@ -1,4 +1,4 @@
-name: build
+name: Build Site
 on:
   push:
     branches:
@@ -14,9 +14,8 @@ jobs:
           mkdir -p docs
           cp -r Dungeon/ docs/ && cp -r Resource/ docs/ && cp -r Staircase/ docs/ && cp README.md docs/
       - name: Build MkDocs
-        - uses: actions/checkout@v2
-        - uses: actions/setup-python@v2
-          with:
-            python-version: 3.x
-        - run: pip install mkdocs
-        - run: mkdocs gh-deploy --force --clean --verbose
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+        run: pip install mkdocs
+        run: mkdocs gh-deploy --force --clean --verbose
