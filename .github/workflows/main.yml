@@ -13,13 +13,10 @@ jobs:
         run: |
           mkdir -p docs
           cp -r Dungeon/ docs/ && cp -r Resource/ docs/ && cp -r Staircase/ docs/ && cp README.md docs/
-  deploy:
-    needs: make_dirs
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
-        with:
-          python-version: 3.x
-      - run: pip install mkdocs
-      - run: mkdocs gh-deploy --force --clean --verbose
+      - name: Build MkDocs
+        - uses: actions/checkout@v2
+        - uses: actions/setup-python@v2
+          with:
+            python-version: 3.x
+        - run: pip install mkdocs
+        - run: mkdocs gh-deploy --force --clean --verbose
