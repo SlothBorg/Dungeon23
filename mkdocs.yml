@@ -1,0 +1,7 @@
+site_name: Dungeon 23 & other 23s
+
+nav:
+    - Home: README.md
+    - Dungeon 23: Dungeon/README.md
+    - Staircase 23: Staircase/README.md
+    - Resources: Resource/README.md
