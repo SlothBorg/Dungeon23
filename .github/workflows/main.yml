@@ -4,7 +4,7 @@ on:
     branches:
       - dev
 jobs:
-  make_dirs:
+  Build Site:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
