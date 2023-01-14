@@ -1,0 +1,23 @@
+name: Build Site
+on:
+  push:
+    branches:
+      - dev
+jobs:
+  Build_Site:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Create folder
+        run: |
+          mkdir -p docs
+          cp -r Dungeon/ docs/ && cp -r Resource/ docs/ && cp -r Staircase/ docs/ && cp README.md docs/
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - name: Build MkDocs
+        run: |
+          pip install mkdocs
+          mkdocs gh-deploy --force --clean --verbose
