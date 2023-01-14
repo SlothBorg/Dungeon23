@@ -14,7 +14,7 @@ Peering over the balcony, you can see a pile of the **failed experiments** rotti
 
 * The goblins are perfectly happy to talk and trade with any interlopers, thought they will try and cheat them.
 * The beasts that the goblins are creating here are meant for war.
-* The academical, is a closely guarded secrete and the goblins will not part with it, nor allow samples to be taken.
+* The alchemical solution, is a closely guarded secrete and the goblins will not part with it, nor allow samples to be taken.
 * **FAIR USE** Inspired by *The Goblin Pits of Io-Rach* from the 3rd edition D&D *Book of Vile Darkness* **FAIR USE** 
 
 #### Faction & Inhabitant
