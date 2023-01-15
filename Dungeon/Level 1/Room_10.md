@@ -4,7 +4,7 @@ A series of small shoddily constructed wooden buildings are lashed to, built on 
  
 You see no hint of flame in the small ramshackle village, though some buildings do have a pale blue or green glow emanating from between the larger gaps in the wood.
 
-High above in the pit, you can see large spheres of some material, suspend from yet more **spider silk**. Each sphere glows with bio-luminescent algae casting the whole area in a pale blue green light.
+High above in the pit, you can see large spheres of some material, suspend from yet more **spider silk**. Each sphere glows with bio-luminescent algae casting the whole area in a pale blue-green light.
 
 There is just enough light to make out a large banner with a crudely drawn spider upon it in the center of this village. 
 
@@ -14,7 +14,7 @@ There is just enough light to make out a large banner with a crudely drawn spide
 
 * The goblins aren't outright hostile to any intruders, but they are wary of outsiders and will stop anyone from bringing fire onto the webbing, especially into their village.
 * While the village is ramshackle, there is a fair amount of valuable loot contained within, often taken from the corpses of their "deity".
-* The village is intended to be reminiscent of [Goblin Town](https://www.youtube.com/watch?v=sVzjb-OcmXI, as depicted in the movie adaptation of The Hobbit.
+* The village is intended to be reminiscent of [Goblin Town](https://www.youtube.com/watch?v=sVzjb-OcmXI), as depicted in the movie adaptation of The Hobbit.
 
 #### Faction & Inhabitant
 

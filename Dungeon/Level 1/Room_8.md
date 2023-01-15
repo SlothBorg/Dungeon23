@@ -4,7 +4,7 @@ The low ceiling of the cave is studded with **small crystalline stalactites** th
 
 Scattered though out the cave are piles of stones, each topped with a **crystalline stalactites**, glowing with the same eerie **pale blue light**.
 
-A dozen or so yards into the cave a large pile of rubble stretches from one side of the cave to the other. You can just make out the **blue glow** beyond. With some work you could squeeze over the pile or fallen rocks... you think.  
+A dozen or so yards into the cave a large pile of rubble stretches from one side of the cave to the other. You can just make out the **blue glow** beyond. With some work you could squeeze over the pile of fallen rocks... you think.  
 
 From under the closest cairn, you can see a glint of steel.
 

@@ -4,7 +4,7 @@ In the center of the room, standing proud amidst the rubble, is a large metal ar
 
 Dust hangs in the air, heavy with static charge.
 
-Slumped against the **Metal Edifice** is the limb of some great beast, somehow preserved, blood and gore still ooze from where it cut clean off the body. Great talons have carved deep gouges in the stone, and you can see wicked looking spines along the limb.
+Slumped against the **Metal Edifice** is the limb of some great beast, somehow preserved, blood and gore still ooze from where it was cut clean off the body. Great talons have carved deep gouges in the stone, and you can see wicked looking spines along the limb.
 
 ---
 
