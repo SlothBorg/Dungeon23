@@ -1,6 +1,6 @@
 # Level 1
 
-In general I am designing this dungeon, without a map in mind, but I find it helpful to have a map at times. I think of the below maps as more of a possible layout than a fixed layout.
+In general I am designing this dungeon without a map in mind, but I find it helpful to have a map at times. I think of the below maps as more of a possible layout than a fixed layout.
 
 ## Week 1
 
