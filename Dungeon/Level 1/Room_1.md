@@ -2,7 +2,7 @@ The chamber is **dank** with a **low ceiling,** and **moss clings** clings to th
 
 In the center a rusted **iron grate** covers a low **well**.
 
-On top of which is hunched **human skeleton**, **impaled,** with a rusted spear instead of spine.
+On top of which is hunched **human skeleton**, **impaled**, with a rusted spear instead of spine.
 
 ---
 
@@ -13,4 +13,4 @@ On top of which is hunched **human skeleton**, **impaled,** with a rusted spear 
 
 #### Rumor & Local Lore
 
-* Before his death in **The Below,** the adventurer **Krostrak Bluntborn** spoke of a **forbidden well** dug deep into the stone. The waters within are said to flow from the **River of Death**.
+* Before his death in **The Below**, the adventurer **Krostrak Bluntborn** spoke of a **forbidden well** dug deep into the stone. The waters within are said to flow from the **River of Death**.
