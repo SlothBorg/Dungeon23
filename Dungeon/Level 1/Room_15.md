@@ -1,8 +1,8 @@
-The sloping **passage way** is broken and filled with rubble ahead, a gaping hole in the ceiling and floor. Some great tunneling beast clearly came through here.
+The sloping **passageway** is broken and filled with rubble ahead, with a gaping hole in the ceiling and floor. Some great tunneling beast clearly came through here.
 
-As you look at the rubble, you notice a **scale** and then another, all dusty with dirt. A **large tooth** is embedded in a slab of stone.
+As you look more closely at the rubble, you notice a **scale** and then another, all covered in dirt. A **large tooth** is embedded in a slab of stone.
 
-The passage shudders with far off movement. 
+The passageway shudders with far off movement.
 
 ---
 
