@@ -1,4 +1,4 @@
-The **damp** fills your nose, before you see the **waist deep waters** that fill the **wide hall** with **arched ceiling**.
+The **damp** fills your nose, before you see the **waist-deep waters** that fill the **wide hall** with **arched ceiling**.
 
 Four **statues** line each side, tall imposing figures **worn down to be featureless**. You struggle to tell them apart, all you can make out is that they are dwarves. Each one clasps a rod or scepter in their hands.
 
