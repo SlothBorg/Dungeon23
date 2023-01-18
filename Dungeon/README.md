@@ -16,3 +16,7 @@
 * [Room 12](Level%201/Room_12.md)
 * [Room 13](Level%201/Room_13.md)
 * [Room 14](Level%201/Room_14.md)
+* [Room 15](Level%201/Room_15.md)
+* [Room 16](Level%201/Room_16.md)
+* [Room 17](Level%201/Room_17.md)
+* [Room 18](Level%201/Room_18.md)
