@@ -12,14 +12,14 @@ A tattered and smudged red banner with a toothy grin in black hangs in the midst
 
 ### More Info:
 
-* The scavengers have found a shaft pit similar to the one in [Room 3](Room_3.md) that was used to toss trash. They have been making a decent profit searching through the old trash for bits and bobs they can sell.
+* The scavengers have found a shaft pit similar to the one in [Room 3](Room_03.md) that was used to toss trash. They have been making a decent profit searching through the old trash for bits and bobs they can sell.
 * They are willing to trade, though most of their items are scavenged.
 * They do have a working forge and have been melting down bits of metal into ingots.
 * They will gladly charge a fee to allow "visitors" to rest in their camp.
 
 #### Faction & Inhabitant
 
-* These are the scavengers who put up the warning in [Room 5](Room_5.md)
+* These are the scavengers who put up the warning in [Room 5](Room_05.md)
 
 #### Rumor & Local Lore
 

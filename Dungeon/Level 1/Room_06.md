@@ -10,7 +10,7 @@ The pillars, though worn, still show signs of **excellent craftsmanship**. Affix
 
 * The stream that once fed the cistern has dried up, and it enters the cistern several feet above the current water level.
 * Under the stagnant water the floor is uneven.
-* Several corpses are hidden under the water. Most have fallen to their death from [Room 5](Room_5.md). The room itself serves as a potential treasure more than anything within the room.
+* Several corpses are hidden under the water. Most have fallen to their death from [Room 5](Room_05.md). The room itself serves as a potential treasure more than anything within the room.
 
 #### Faction & Inhabitant
 

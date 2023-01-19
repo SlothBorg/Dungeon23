@@ -9,7 +9,7 @@ On top of which is hunched **human skeleton**, **impaled**, with a rusted spear 
 ### More Info:
 
 * The skeletons' spine has been replaced by the spear, the victim of a trap? A dire warning? An ancient shrine?
-* The well leads down to a larger cistern, [Room 6](Room_6.md), the cistern is fed by the underground stream in [Room 5](Room_5.md)
+* The well leads down to a larger cistern, [Room 6](Room_06.md), the cistern is fed by the underground stream in [Room 5](Room_5.md)
 
 #### Rumor & Local Lore
 

@@ -12,7 +12,7 @@ Half a dozen **rusted and bent** pitons lie scattered on the floor, alongside a 
 
 * The crude drawings depict stylized skulls and other symbols meant identify the area as belonging to the scavenger gang. They hint at danger but not the nature of it.
 * Beyond the **crude drawings**, the floor becomes unstable, and is at risk of collapsing into an underground stream. The floor has collapsed and been repaired many times.
-* The Underground stream leads into the Cistern under the well from [Room 1](Room_1.md)
+* The Underground stream leads into the Cistern under the well from [Room 1](Room_01.md)
 
 #### Faction & Inhabitant
 

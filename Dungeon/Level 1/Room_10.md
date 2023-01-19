@@ -18,8 +18,8 @@ There is just enough light to make out a large banner with a crudely drawn spide
 
 #### Faction & Inhabitant
 
-* The **Spider abomination** from [Room 9](https://old.reddit.com/r/Dungeon23/comments/107j3pt/day_9_too_many_legs_to_be_trusted/) has allowed the Goblins to use her web to build their town. She finds their habits endearing and amusing, and has grown protective of them.
-* This is where the **Goblin Tribe** that has started worshiping the Spider Abomination from [Room 9](Room_9.md), have taken up residence. 
+* The **Spider abomination** from [Room 9](Room_09.md) has allowed the Goblins to use her web to build their town. She finds their habits endearing and amusing, and has grown protective of them.
+* This is where the **Goblin Tribe** that has started worshiping the Spider Abomination from [Room 9](Room_09.md), have taken up residence. 
 
 #### Rumor & Local Lore
 

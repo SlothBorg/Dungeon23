@@ -17,7 +17,7 @@ From under the closest cairn, you can see a glint of steel.
 
 #### Faction & Inhabitant
 
-* The corpses under the cairns are members of the Scavenger Gang from [Room 5](Room_5.md).
+* The corpses under the cairns are members of the Scavenger Gang from [Room 5](Room_05.md).
 
 #### Rumor & Local Lore
 
