@@ -8,7 +8,7 @@
 
 #### Faction & Inhabitant
 
-{{ FACTION & INHABITANTS}}
+{{ FACTION & INHABITANTS }}
 
 #### Rumor & Local Lore
 
