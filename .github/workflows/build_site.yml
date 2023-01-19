@@ -18,9 +18,6 @@ jobs:
         with:
           python-version: 3.x
       - name: Build indexs
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.x
         run: |
           pip install natsort
           python scripts/build_site.py
