@@ -8,13 +8,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@dev
       - name: Create folder
         run: |
           mkdir -p docs
           cp -r Dungeon/ docs/ && cp -r Resource/ docs/ && cp -r Staircase/ docs/ && cp README.md docs/
       - name: Setup Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: 3.x
       - name: Build indexs
