@@ -71,4 +71,4 @@ for directory in DIRECTORIES:
 	for filepath in FILES_LIST:
 		INDEX_CONTENT.append(filepath_to_link(directory, filepath))
 
-	# write_to_readme(directory, INDEX_CONTENT)
+	write_to_readme(directory, INDEX_CONTENT)
