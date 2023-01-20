@@ -27,8 +27,8 @@ def filepath_to_link(filepath):
 	filename = path.basename(filepath)
 
 	if filename == 'README.md' and 'Level' in filepath:
-		heading = '\n## ' + pathlib.PurePath(filepath).parent.name
-		link = '[' + pathlib.PurePath(filepath).parent.name + ' - Overview](' + filepath + ')'
+		heading = '\n## ' + pathlib.PurePath(filepath).parent.name + '\n'
+		link = '[' + pathlib.PurePath(filepath).parent.name + ' - Overview](' + filepath + ')\n'
 		return '\n'.join([heading, link])
 	else:
 		file_name = path.basename(filepath).replace('_0', ' ').replace('_', ' ').strip('.md')
