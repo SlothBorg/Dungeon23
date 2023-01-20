@@ -37,9 +37,9 @@ def filepath_to_link(directory, filepath):
 
 def build_link_from_filepath(directory, filepath):
 	if filepath.endswith('README.md'):
-		return filepath.strip(directory).replace('README.md', '/index.html')
+		return filepath.replace('README.md', '/index.html')
 	else:
-		return filepath.strip(directory).replace('.md', '/index.html')
+		return filepath.replace('.md', '/index.html')
 
 
 def write_to_readme(directory, content):
