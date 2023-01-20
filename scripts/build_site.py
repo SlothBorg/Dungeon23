@@ -28,11 +28,15 @@ def filepath_to_link(filepath):
 
 	if filename == 'README.md' and 'Level' in filepath:
 		heading = '\n## ' + pathlib.PurePath(filepath).parent.name + '\n'
-		link = '[' + pathlib.PurePath(filepath).parent.name + ' - Overview](' + filepath + ')\n'
+		link = '[' + pathlib.PurePath(filepath).parent.name + ' - Overview](' + build_link_from_filepath(filepath) + ')\n'
 		return '\n'.join([heading, link])
 	else:
 		file_name = path.basename(filepath).replace('_0', ' ').replace('_', ' ').strip('.md')
-		return '* [' + file_name + '](' + filepath + ')'
+		return '* [' + file_name + '](' + build_link_from_filepath(filepath) + ')'
+
+
+def build_link_from_filepath(filepath):
+	return filepath.replace('.md', '/index.html')
 
 
 def write_to_readme(directory, content):
