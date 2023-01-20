@@ -36,12 +36,8 @@ def filepath_to_link(directory, filepath):
 
 
 def build_link_from_filepath(directory, filepath):
-	directory_search_str = path.join(directory, directory)
+	filepath = filepath.replace(directory + '/')
 
-	print(filepath)
-	filepath = filepath.replace(directory_search_str, directory)
-	print(filepath)
-	
 	if filepath.endswith('README.md'):
 		return filepath.replace('README.md', '/index.html')
 	else:
