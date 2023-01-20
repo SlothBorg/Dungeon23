@@ -23,20 +23,23 @@ def list_markdown_files(directory):
 			FILES_LIST.append(filepath)
 
 
-def filepath_to_link(filepath):
+def filepath_to_link(directory, filepath):
 	filename = path.basename(filepath)
 
 	if filename == 'README.md' and 'Level' in filepath:
 		heading = '\n## ' + pathlib.PurePath(filepath).parent.name + '\n'
-		link = '[' + pathlib.PurePath(filepath).parent.name + ' - Overview](' + build_link_from_filepath(filepath) + ')\n'
+		link = '[' + pathlib.PurePath(filepath).parent.name + ' - Overview](' + build_link_from_filepath(directory, filepath) + ')\n'
 		return '\n'.join([heading, link])
 	else:
 		file_name = path.basename(filepath).replace('_0', ' ').replace('_', ' ').strip('.md')
-		return '* [' + file_name + '](' + build_link_from_filepath(filepath) + ')'
+		return '* [' + file_name + '](' + build_link_from_filepath(directory, filepath) + ')'
 
 
-def build_link_from_filepath(filepath):
-	return filepath.replace('.md', '/index.html')
+def build_link_from_filepath(directory, filepath):
+	if filepath.endswith('README.md'):
+		return filepath.strip(directory).replace('README.md', '/index.html')
+	else:
+		return filepath.strip(directory).replace('.md', '/index.html')
 
 
 def write_to_readme(directory, content):
@@ -62,6 +65,6 @@ for directory in DIRECTORIES:
 
 	INDEX_CONTENT = []
 	for filepath in FILES_LIST:
-		INDEX_CONTENT.append(filepath_to_link(filepath))
+		INDEX_CONTENT.append(filepath_to_link(directory, filepath))
 
 	write_to_readme(directory, INDEX_CONTENT)
