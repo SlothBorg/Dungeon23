@@ -1,7 +1,6 @@
 from os import listdir
 from os import path
 import pathlib
-from natsort import natsorted
 
 DIRECTORIES = [
 	'Dungeon',
@@ -10,7 +9,8 @@ DIRECTORIES = [
 
 
 def list_markdown_files(directory):
-	items = natsorted(listdir(directory))
+	items = listdir(directory)
+	items.sort()
 	
 	for item in items:
 		filepath = path.join(directory, item)
@@ -27,11 +27,15 @@ def filepath_to_link(directory, filepath):
 	filename = path.basename(filepath)
 
 	if filename == 'README.md' and 'Level' in filepath:
-		heading = '\n## ' + pathlib.PurePath(filepath).parent.name + '\n'
-		link = '[' + pathlib.PurePath(filepath).parent.name + ' - Overview](' + build_link_from_filepath(directory, filepath) + ')\n'
+		natural_file_path = pathlib.PurePath(filepath).parent.name.replace(' 0', ' ')
+
+		heading = '\n## ' + natural_file_path + '\n'
+		link = '[' + natural_file_path + ' - Overview](' + build_link_from_filepath(directory, filepath) + ')\n'
 		return '\n'.join([heading, link])
 	else:
-		file_name = path.basename(filepath).replace('_0', ' ').replace('_', ' ').strip('.md')
+		natural_file_path = filepath.replace(' 0', ' ')
+
+		file_name = path.basename(natural_file_path).replace('_0', ' ').replace('_', ' ').strip('.md')
 		return '* [' + file_name + '](' + build_link_from_filepath(directory, filepath) + ')'
 
 
@@ -39,7 +43,7 @@ def build_link_from_filepath(directory, filepath):
 	filepath = filepath.replace(directory + '/', '')
 
 	if filepath.endswith('README.md'):
-		return filepath.replace('README.md', '/index.html')
+		return filepath.replace('README.md', 'index.html')
 	else:
 		return filepath.replace('.md', '/index.html')
 
