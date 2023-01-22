@@ -11,7 +11,7 @@ The air is heavy with the stench of **death** and **putrid meat**.
 
 ### More Info:
 
-* The cave exits directly to [Room 3](Room_03.md). A few of the side passages open into the stream leading from [Room 1](Room_1.md) to [Room 6](Room_6.md), providing the **ghouls** with their only source of fresh water.
+* The cave exits directly to [Room 3](Room_03.md). A few of the side passages open into the stream leading from [Room 1](Room_01.md) to [Room 6](Room_06.md), providing the **ghouls** with their only source of fresh water.
 * The main cave is 7 feet high and the side passages are twisting and narrow. As often as not they dead end in small alcoves scratched into the cold rock.
 * The **ghouls** are more curious than anything. It's been a while since living beings have entered their lair.
 
