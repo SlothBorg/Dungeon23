@@ -14,7 +14,7 @@ def create_room():
     template_file = path.dirname(path.realpath(__file__)) + '/templates/dungeon.md'
 
     if path.exists(template_file):
-        new_room = 'Dungeon/Level ' + str(TODAY.month) + '/Room_' + str(DAY) + '.md'
+        new_room = 'Dungeon/Level ' + str(f'{TODAY.month:02}') + '/Room_' + str(DAY) + '.md'
         copy(template_file, new_room)
 
 
@@ -29,6 +29,7 @@ def get_theme():
     else:
         return THEMES[WEEK-1]
 
+
 START_DATE = datetime.strptime('01/01/23', "%m/%d/%y")
 TODAY = date.today()
 DAY = TODAY.day
@@ -38,7 +39,7 @@ THEMES = get_themes()
 print('------------------')
 print('| Todays room is |')
 print('------------------')
-print('Level ' + str(TODAY.month) + ' Room_' + f'{DAY:02}' )
+print('Level ' + str(TODAY.month) + ' Room_' + f'{DAY:02}')
 create_room()
 print('\n')
 print('---------------')
