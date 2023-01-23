@@ -9,14 +9,14 @@ Each statue stands upon a **plinth** of **white quartz** contrasting with the bl
 ### More Info:
 
 For ease of reference: 
-```
-   1---2
-   | X |
-   3---4
 
-  Players
 ```
+  1---2
+  | X |
+  3---4
 
+ Players
+```
 X marks the brazier
 
 ##### Statue 1: 
@@ -26,16 +26,12 @@ Avarice or Greed.
 The plaque reads:
 
 ```
-I steal the future
-I mar the past
 The more you have, the less it seems
 You becomes a slave
 To glittering things
 ```
 
 The offerings left here are coins, gold, gems, and other precious things of great value.
-
-
 
 ##### Statue 2: 
 
@@ -44,13 +40,10 @@ Fear or cowardice.
 The plaque reads:
 
 ```
-Warrior's bane
-In the darkness of your soul
-I live
 I bring you to your knees,
 Trembling and weeping
-Unable to lift a hand in defense
-``` 
+Unable to lift a hand in defense 
+```
 
 The offerings here are, trophy's of conquest and valor, a few bottle of liquid, and a keg of beer 
 
@@ -59,20 +52,28 @@ The offerings here are, trophy's of conquest and valor, a few bottle of liquid, 
 Pride
 
 The plaque reads:
+
 ```
 I can be swallowed
 I swallow even great warriors
 Banish me and be free
 ```
 
-The offerings here are, again trophies, sashes, honors, scraps of paper with names and deeds writen upon them, an epic poem
+The offerings here are, again trophies, sashes, honors, scraps of paper with names and deeds written upon them, an epic poem
 
 ##### Statue 4:
 
+Death
+
 The plaque is blank 
 
-At it's feet are ashes, the statue is free of soot.
+At it's feet are pebbles, small stones and crystals.
+
+---
+
+* Each statue will "dispense" a **wardstone**.
 
 #### Rumor & Local Lore
 
-* 
+* Dwarves aren't creatures of flesh, they are born of the living stone and minerals of the earth.
+* Dwarven wardstones are valuable in and of themselves, but often more valuable as a key.
