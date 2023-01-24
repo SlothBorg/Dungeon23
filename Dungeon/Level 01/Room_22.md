@@ -21,7 +21,7 @@ X marks the brazier
 
 ##### Statue 1: 
 
-Avarice or Greed.
+Avarice
 
 The plaque reads:
 
@@ -35,7 +35,7 @@ The offerings left here are coins, gold, gems, and other precious things of grea
 
 ##### Statue 2: 
 
-Fear or cowardice. 
+Cowardice
 
 The plaque reads:
 
