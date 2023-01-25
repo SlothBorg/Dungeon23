@@ -10,3 +10,4 @@ With a snort, the beast starts to charge!
 
 * The beast is an illusion, and will cause no real harm
 * Fleeing from the beast, marks any holder of a **Wardstone of Cowardice** (see [Room 22](Room_22.md)) as a coward.
+* If someone holding the wardsone of Cowardice, either stands their ground or charges the beast, the stone will feel warm to the touch, and a single rune upon it's surface will pulse faintly with an inner light.
