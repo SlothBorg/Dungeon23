@@ -1,6 +1,6 @@
 The **flooded hallway** opens into a **spacious round room**, a **pocket of air** trapped against the **domed celling**.
 
-The **frescos** that once decorated the dome have faded and are coated in **mold and algae**.  
+The **frescoes** that once decorated the dome have faded and are coated in **mold and algae**.  
 
 The air is **stale and moldy**, but it is air.
 
