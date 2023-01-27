@@ -29,12 +29,6 @@ def markdown_to_html(file_path):
 		html_file_path = file_path.replace('.md', '.html')
 		
 		markdown.markdownFromFile(input=file_path, output=html_file_path)
-		
-
-		# print(file_path)
-		# print(html_file_path)
-		# markdown.markdownFromFile(file_path, html_file_path)
-		# markdown.convert(file_path)
 
 
 
