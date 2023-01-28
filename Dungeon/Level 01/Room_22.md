@@ -1,4 +1,4 @@
-A great **brazier** of dancing yellow flame lights this grand hall, the floors and walls are made of **perfectly cut stone**, the ceiling is shaped from the living stone itself.
+A great **brazier** of dancing yellow flame lights this grand hall. The floors and walls are made of **perfectly cut stone**, while the ceiling is shaped from the living stone itself.
 
 The brazier sits in the middle of a **square dais**, made from a **single gargantuan slab** of **basalt**. At each corner of the dais a beautiful statue in **gleaming marble** faces outward.  
 
@@ -45,7 +45,7 @@ Trembling and weeping
 Unable to lift a hand in defense 
 ```
 
-The offerings here are, trophy's of conquest and valor, a few bottle of liquid, and a keg of beer 
+The offerings here are trophies of conquest and valor, a few bottles of liquid, and a keg of beer. 
 
 ##### Statue 3:
 
@@ -59,7 +59,7 @@ I swallow even great warriors
 Banish me and be free
 ```
 
-The offerings here are, again trophies, sashes, honors, scraps of paper with names and deeds written upon them, an epic poem
+The offerings here are again trophies, sashes, honors, scraps of paper with names and deeds written upon them, and an epic poem
 
 ##### Statue 4:
 
@@ -67,7 +67,7 @@ Death
 
 The plaque is blank 
 
-At it's feet are pebbles, small stones and crystals.
+At its feet are pebbles, small stones and crystals.
 
 ---
 

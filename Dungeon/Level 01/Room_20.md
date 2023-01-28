@@ -1,8 +1,8 @@
-The **tunnel** slopes downwards, and you step over **broken stone** and **shattered blade**.
+The **tunnel** slopes downwards, and you step over **broken stone** and **shattered blades**.
 
-As the tunnel levels out, it widens into a large cave, dotted with perfect statues of all manors, each shockingly life like in it's depiction. 
+As the tunnel levels out, it widens into a large cave. The cave is dotted with all manner of perfect statues, all shockingly lifelike in their depictions. 
 
-All seem to be in motion, some running forward, some fleeing, some shouting in shock and some screaming in pain.
+The statues are of all races, but they all share a single trait: each one seems to be in motion, some running forward, some fleeing, some shouting in shock and some screaming in pain.
 
 ---
 

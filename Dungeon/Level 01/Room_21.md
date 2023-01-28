@@ -1,6 +1,6 @@
-The **corridor** is filled with the mingled scent of **burnt flesh** and **ozone**. Scattered about the place are **charred corpse**.  
+The **corridor** is filled with the mingled scent of **burnt flesh** and **ozone**. Scattered about the place are **charred corpses**.
 
-Some just **blackened bones**, others *fresher*.
+Some are nothing more than **blackened bones**, while others are much **fresher**.
 
 At equal intervals down the corridor are **brass** plates set into the stone. 
 
@@ -8,7 +8,7 @@ At equal intervals down the corridor are **brass** plates set into the stone.
 
 ### More Info:
 
-* While the brass plates are the trigger plates for the trap, they are sensitive enough that all but the most careful adventurer would trigger them by stepping around them.
+* While the brass plates are the trigger plates for a trap, they are sensitive enough that all but the most careful adventurer would trigger them by stepping around them.
 
 ---
 ---
@@ -23,6 +23,6 @@ At the bottom of the hole you catch glimpses of **liquid**.
 
 ### More Info:
 
-* The liquid at the bottom of the hole, is foul and filled with rotting organic matte, the liquid is deep enough to cushion a fall.
-* Ingesting the liquid will sicken even the strongest adventure, falling into it, fighting in it, splashing around in it would likely splash a fair bit onto the face... 
+* The liquid at the bottom of the hole is foul and filled with rotting organic matter. The liquid is deep enough to cushion a fall.
+* Ingesting the liquid will sicken even the strongest adventure. Falling into it, fighting in it, splashing around in it, would all likely splash a fair bit onto the face... 
 
