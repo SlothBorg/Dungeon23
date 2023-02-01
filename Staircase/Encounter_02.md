@@ -1,0 +1,1 @@
+Two huge **stone giants** loom out of the mist, **locked in a grapple** over the stairs.
