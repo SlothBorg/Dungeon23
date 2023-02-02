@@ -1,6 +1,6 @@
-A **fallen column** bridges the **chasm** before you, the face of the column warn down by countless travelers before you.
+A **fallen column** bridges the **chasm** ahead of you, the surface of the column worn down by countless travelers who have gone this way before.
 
-The chasm yawns before you, a **lantern** hangs from a post on the far side.
+The chasm yawns wide. A lone **lantern** hangs from a post on the far side.
 
 A **booming voice** echos up to you, distorted and gravely.
 
@@ -16,4 +16,4 @@ A **booming voice** echos up to you, distorted and gravely.
 
 #### Rumor & Local Lore
 
-* While there isn't much to the stereotype of trolls under bridges, a few upon hearing of the stereotype, have embraced it.
+* While there isn't much to the stereotype of trolls under bridges, a few upon hearing of the stereotype have embraced it.

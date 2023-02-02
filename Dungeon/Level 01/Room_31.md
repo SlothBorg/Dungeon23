@@ -17,7 +17,7 @@ The crack yawns and beckons to you even as you feel uneasy looking at it.
 ### More Info:
 
 * This cave is off of [Room 14](Room_14.md)
-* The runes and geometric shapes, form a binding spell
+* The runes and geometric shapes form a binding spell
 * Resting in the area results in strange and disturbing dreams, food spoils faster and magic takes on a dark taint.
 
 #### Faction & Inhabitant
