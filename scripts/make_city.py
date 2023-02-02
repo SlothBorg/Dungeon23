@@ -30,7 +30,7 @@ def create(template_name):
 
     template_path = path.dirname(path.realpath(__file__)) + '/templates/City/'
     template_file =  path.join(template_path, template_name + '.md')
-    
+
     if path.exists(template_file):
         file_dir = 'City/District_' + str(f'{MONTH:02}')
 

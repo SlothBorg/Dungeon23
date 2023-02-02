@@ -18,7 +18,7 @@ def list_markdown_files(directory):
 
 		if path.isdir(filepath):
 			list_markdown_files(filepath)
-		elif directory in DIRECTORIES and filepath == path.join(directory, 'district_readme.md'):
+		elif directory in DIRECTORIES and filepath == path.join(directory, 'README.md'):
 			pass
 		elif filepath.endswith('.md'):
 			FILES_LIST.append(filepath)
