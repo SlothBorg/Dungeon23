@@ -5,7 +5,7 @@ A **short beach** of **smooth black pebbles** leading into the water. Before you
 
 The air is **cool and damp** reeking of **rotting fish** and **salt**. 
 
-As you watch a **strange leaf shaped** **boat** glides up to the dock and four **fish folk** hop onto the pier and start unloading buckets of rotting fish.
+As you watch a **strange leaf shaped** **boat** glides up to the dock and four **fish folk** hop onto the pier and start hurriedly unloading buckets of rotting fish. They keep glancing over their shoulders at the lake. It quickly becomes apparent why, a large wake is forming and moving towards the pier, as if some large beast was swimming to the surface.
 
 The fish folk, seem oblivious to your presence.
 
@@ -18,7 +18,8 @@ The fish folk, seem oblivious to your presence.
 * Players may notices the following:
   * Far out in the lake there are what appear to be islands
   * Far out in the lake there are also structures of some sort built on stilts and against the stalactites and stalagmites.
-  * A large wake forming and moving towards the pier, as if some large beast was swimming to the surface  
+  * The most recent bucket that was unloaded, isn't fermented fish, but a bucket of writhing baby eels
+* The Fish folk are inspired by the Kuo-toa from D&D
 
 #### Faction & Inhabitant
 
