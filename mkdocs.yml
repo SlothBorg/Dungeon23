@@ -1,7 +1,8 @@
 site_name: Dungeon 23
 
 nav:
-    - Home: README.md
-    - Dungeon 23: Dungeon/README.md
-    - Staircase 23: Staircase/README.md
-    - Resources: Resource/README.md
+    - Home: district_readme.md
+    - '#City23': City/district_readme.md
+    - '#Dungeon23': Dungeon/district_readme.md
+    - '#Staircase23': Staircase/district_readme.md
+    - Resources: Resource/district_readme.md

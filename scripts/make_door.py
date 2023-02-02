@@ -75,7 +75,7 @@ FEATURE = [
 ]
 
 def create_landing(door_string):
-    template_file = path.dirname(path.realpath(__file__)) + '/templates/landing.md'
+    template_file = path.dirname(path.realpath(__file__)) + '/templates/Infinite_Staircase/landing.md'
 
     if path.exists(template_file):
         new_landing = getcwd() + '/Staircase/Landing_' + str(TODAY) + '.md'
