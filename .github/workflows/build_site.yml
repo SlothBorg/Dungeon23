@@ -20,7 +20,11 @@ jobs:
       - name: Copy Content
         run: |
           mkdir -p docs
-          cp -r Dungeon/ docs/ && cp -r Resource/ docs/ && cp -r Staircase/ docs/ && cp README.md docs/
+          cp -r City/ docs/
+          cp -r Dungeon/ docs/
+          cp -r Resource/ docs/
+          cp -r Staircase/ docs/
+          cp README.md docs/
       - name: Build MkDocs
         run: |
           pip install mkdocs
