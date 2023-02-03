@@ -7,14 +7,14 @@ from shutil import copy
 SCHEDULE = [
     'event',
     'faction',
+    'lore',
     'person',
     'place',
-    'lore',
 ]
 
 
-def get_day_to_schedule(num):
-    num -= 1
+def get_day_to_schedule():
+    num = DAY - 1
 
     if num >= len(SCHEDULE):
         tmp_num = num
@@ -36,7 +36,7 @@ def create(template_name):
 
         if not path.isdir(file_dir):
             makedirs(file_dir)
-            copy(path.join(template_path, 'district_readme.md'), path.join(file_dir, 'README.md'))
+            copy(path.join(template_path, 'district_readme.md'), path.join(file_dir, 'district_readme.md'))
 
         file_name = str(f'{DAY:02}') + '_' + template_name + '.md'
 
@@ -49,6 +49,4 @@ TODAY = date.today()
 MONTH = TODAY.month
 DAY = TODAY.day
 
-template = get_day_to_schedule(DAY)
-
-create(template)
+create(get_day_to_schedule())
