@@ -36,7 +36,7 @@ def create(template_name):
 
         if not path.isdir(file_dir):
             makedirs(file_dir)
-            copy(path.join(template_path, 'district_readme.md'), path.join(file_dir, 'district_readme.md'))
+            copy(path.join(template_path, 'district_readme.md'), path.join(file_dir, 'README.md'))
 
         file_name = str(f'{DAY:02}') + '_' + template_name + '.md'
 

@@ -5,4 +5,4 @@ Spice is most frequently sold in one of the many inter-district markets.
 
 ## Rumor
 
-* A new merchant is selling a wonderful array of spices, at bargain prices in the back alleys of the Spice District.tunes surprisingly quickly.
+* A new merchant is selling a wonderful array of spices, at bargain prices in the back alleys of the Spice District.
