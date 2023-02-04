@@ -14,7 +14,7 @@ def create_room():
     template_file = path.dirname(path.realpath(__file__)) + '/templates/Dungeon/room.md'
 
     if path.exists(template_file):
-        new_room = 'Dungeon/Level ' + str(f'{TODAY.month:02}') + '/Room_' + str(f'{DAY:02}') + '.md'
+        new_room = 'Dungeon/Level_' + str(f'{TODAY.month:02}') + '/Room_' + str(f'{DAY:02}') + '.md'
         copy(template_file, new_room)
 
 
