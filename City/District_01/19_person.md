@@ -1,8 +1,8 @@
 ## {NAME}
 
-### Agenda
+### Reputation
 
-### Instinct
+### Agenda
 
 ### Moves
 
