@@ -1,8 +1,9 @@
 ## Lore
 
 * If you need to travel to another district, the fastest way is by gondola.
-If you need to travel there secretly that'll be an additional fee.
-If you need to travel there safely that'll b be an additional fee.
+  * If you need to travel there secretly that'll be an additional fee.
+  * If you need to travel there safely that'll b be an additional fee.
+* Gondolier operate by their own impenetrable code of duty and honor 
 
 ## Rumor
 
