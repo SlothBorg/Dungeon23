@@ -1,4 +1,20 @@
-## 
+## Overview
+
+The prime material plane has been overrun by demons.
+
+In the years before the fall of the prime, powerful magic uses across the prime came together to build the Arcane Anchor upon the dead world.
+
+A planar lighthouse to guide refugees to a safe haven, and to ward against the demonic forces.
+
+Powerful archaists tried many times to transport whole cities, but only a few were truly successful.
+
+Now this new world is littered with debris of the old.
+
+Whole cities smashed into mountains.
+
+Jungles sunk to the bottom of salt seas.
+
+Whispered rumors of things never seen before...
 
 ## In This World
 
@@ -6,7 +22,9 @@
 
 ## History
 
-## 
+
+
+## Glossary 
 
 * **Caves of Fallen Stars** a series of non-connected caves with crystals that glow pale blue with an internal light. The crystals are crystallized mana.
 * **Dal Durrath** Dwarven city, now broken and lost in **The Below**, it was an early and failed attempt at transporting a city to the new world.

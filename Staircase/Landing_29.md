@@ -1,0 +1,1 @@
+The landing is empty, you know there were doors here once. You can't recall how you know, but you know.
