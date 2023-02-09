@@ -1,1 +1,1 @@
-{{ DOOR }}
+{{ CONTENT }}
