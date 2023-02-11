@@ -26,6 +26,7 @@ Whispered rumors of things never seen before...
 
 ## Glossary 
 
+* **The Demon War** war is a bit of a stretch for the battles to hold back the unending tide of demons that swarmed across the Prime Material.  
 * **Caves of Fallen Stars** a series of non-connected caves with crystals that glow pale blue with an internal light. The crystals are crystallized mana.
 * **Dal Durrath** Dwarven city, now broken and lost in **The Below**, it was an early and failed attempt at transporting a city to the new world.
 * **Delvers** Term for those who willingly go into **The Below** 
