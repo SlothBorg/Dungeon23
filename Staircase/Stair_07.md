@@ -1,0 +1,1 @@
+White pillow like clouds float in a flat grey mist, forming a sort of staircase. 
