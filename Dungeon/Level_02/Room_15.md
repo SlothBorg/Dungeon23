@@ -1,4 +1,4 @@
-The gaping mouth of some strange worm like creature just barley breaks the surface, water spills through it's toothless mouth and down it's gullet.
+The gaping mouth of some strange worm like creature just barely breaks the surface, water spills through it's toothless mouth and down it's gullet.
 
 From deep within you here strange chattering and other noises that while distressing remind you of language. 
 
