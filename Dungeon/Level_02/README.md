@@ -17,4 +17,7 @@ flowchart TD
     A31[Level 1 Room 31] <--> B11[Room 11] <--> B4
     La <--> B12[Room 12]
     B13[Room 13] <--> B12
+    B13 <--> B14[Room 14]
+    B12 <--> B14
+    La <----> B15[Room 15]
 ```
