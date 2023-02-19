@@ -2,6 +2,7 @@ from datetime import datetime, date
 from pkgs.city import City
 from pkgs.door import Door
 from pkgs.room import Room
+from pkgs.item import Item
 from os import path
 from os import getcwd
 from shutil import copy
@@ -40,6 +41,7 @@ projects = [
     City(),
     Door(),
     Room(),
+    Item(),
 ]
 
 print("Day: ", datetime.now().timetuple().tm_yday, "\n")

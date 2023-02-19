@@ -1,0 +1,3 @@
+* A: **Rings & Jewelry**
+* **Hangman**
+
