@@ -1,3 +1,3 @@
-* A: **Weapons**
-* **Mask**
+Weapons
+Mask
 

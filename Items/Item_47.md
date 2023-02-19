@@ -1,3 +1,3 @@
-* A: **Weapons**
-* **Idol**
+Weapons
+Idol
 

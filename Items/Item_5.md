@@ -1,3 +1,3 @@
-* A: **Armor**
-* **Cold**
+Armor
+Cold
 

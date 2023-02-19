@@ -1,3 +1,3 @@
-* A: **Misc.**
-* **Laughter**
+Misc.
+Laughter
 

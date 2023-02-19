@@ -1,3 +1,3 @@
-* A: **Potions**
-* **Ancient**
+Potions
+Ancient
 

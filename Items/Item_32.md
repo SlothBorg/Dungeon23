@@ -1,3 +1,3 @@
-* A: **Rings & Jewelry**
-* **Darkness**
+Rings & Jewelry
+Darkness
 

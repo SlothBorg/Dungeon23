@@ -1,3 +1,3 @@
-* A: **Potions**
-* **Darkness**
+Potions
+Darkness
 

@@ -1,3 +1,3 @@
-* A: **Weapons**
-* **Fall**
+Weapons
+Fall
 

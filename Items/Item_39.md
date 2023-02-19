@@ -1,3 +1,3 @@
-* A: **Misc.**
-* **Sleep**
+Misc.
+Sleep
 

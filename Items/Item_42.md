@@ -1,3 +1,3 @@
-* A: **Misc.**
-* **Song**
+Misc.
+Song
 

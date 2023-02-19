@@ -1,3 +1,3 @@
-* A: **Weapons**
-* **Bones**
+Weapons
+Bones
 

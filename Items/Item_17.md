@@ -1,3 +1,3 @@
-* A: **Potions**
-* **Door**
+Potions
+Door
 

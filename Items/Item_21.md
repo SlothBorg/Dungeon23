@@ -1,3 +1,3 @@
-* A: **Armor**
-* **Heavy**
+Armor
+Heavy
 

@@ -1,3 +1,3 @@
-* A: **Potions**
-* **Death**
+Potions
+Death
 

@@ -1,3 +1,3 @@
-* A: **Staffs**
-* **Fall**
+Staffs
+Fall
 

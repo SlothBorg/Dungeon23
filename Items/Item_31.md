@@ -1,3 +1,3 @@
-* A: **Books & Scrolls**
-* **Heavy**
+Books & Scrolls
+Heavy
 

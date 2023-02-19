@@ -1,3 +1,3 @@
-* A: **Staffs**
-* **Heavy**
+Staffs
+Heavy
 

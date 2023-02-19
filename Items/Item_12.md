@@ -1,3 +1,3 @@
-* A: **Misc.**
-* **Chaos**
+Misc.
+Chaos
 

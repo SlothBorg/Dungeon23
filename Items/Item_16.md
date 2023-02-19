@@ -1,3 +1,3 @@
-* A: **Armor**
-* **Roots**
+Armor
+Roots
 

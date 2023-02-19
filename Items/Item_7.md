@@ -1,3 +1,3 @@
-* A: **Potions**
-* **Growth**
+Potions
+Growth
 

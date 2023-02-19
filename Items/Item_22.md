@@ -1,3 +1,3 @@
-* A: **Weapons**
-* **Light**
+Weapons
+Light
 

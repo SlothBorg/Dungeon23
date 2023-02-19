@@ -1,3 +1,3 @@
-* A: **Books & Scrolls**
-* **Ocean**
+Books & Scrolls
+Ocean
 

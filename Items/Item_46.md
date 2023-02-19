@@ -1,3 +1,3 @@
-* A: **Armor**
-* **Prophet**
+Armor
+Prophet
 

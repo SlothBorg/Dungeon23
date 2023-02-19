@@ -1,3 +1,3 @@
-* A: **Rings & Jewelry**
-* **Time**
+Rings & Jewelry
+Time
 

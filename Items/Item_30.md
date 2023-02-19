@@ -1,3 +1,3 @@
-* A: **Staffs**
-* **Hangman**
+Staffs
+Hangman
 

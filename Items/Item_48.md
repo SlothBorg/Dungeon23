@@ -1,3 +1,3 @@
-* A: **Wands**
-* **Bridge**
+Wands
+Bridge
 

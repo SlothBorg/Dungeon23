@@ -1,3 +1,3 @@
-* A: **Staffs**
-* **Door**
+Staffs
+Door
 

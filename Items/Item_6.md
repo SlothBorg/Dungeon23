@@ -1,3 +1,3 @@
-* A: **Staffs**
-* **Greed**
+Staffs
+Greed
 

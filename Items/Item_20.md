@@ -1,3 +1,3 @@
-* A: **Armor**
-* **Bloom**
+Armor
+Bloom
 

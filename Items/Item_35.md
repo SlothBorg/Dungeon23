@@ -1,3 +1,3 @@
-* A: **Rings & Jewelry**
-* **Greed**
+Rings & Jewelry
+Greed
 

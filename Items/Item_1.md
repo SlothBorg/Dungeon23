@@ -1,3 +1,3 @@
-* A: **Misc.**
-* **Fall**
+Misc.
+Fall
 

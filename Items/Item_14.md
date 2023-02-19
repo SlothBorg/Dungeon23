@@ -1,3 +1,3 @@
-* A: **Books & Scrolls**
-* **Ash**
+Books & Scrolls
+Ash
 

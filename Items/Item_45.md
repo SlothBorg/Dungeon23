@@ -1,3 +1,3 @@
-* A: **Armor**
-* **Fall**
+Armor
+Fall
 

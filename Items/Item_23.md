@@ -1,3 +1,3 @@
-* A: **Armor**
-* **Rust**
+Armor
+Rust
 

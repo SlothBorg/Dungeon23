@@ -1,3 +1,3 @@
-* A: **Weapons**
-* **City**
+Weapons
+City
 

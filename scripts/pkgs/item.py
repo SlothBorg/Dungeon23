@@ -76,8 +76,8 @@ class Item:
         return 'Item'
 
     def create(self):
-        item_description = '* A: **' + choice(self.Item) + '**\n'
-        item_description += '* **' + choice(self.Theme) + '**\n'
+        item_description = choice(self.Theme) + '\n'
+        item_description += choice(self.Item) + '\n'
 
         return item_description
 

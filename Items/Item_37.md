@@ -1,3 +1,3 @@
-* A: **Books & Scrolls**
-* **Forgotten**
+Books & Scrolls
+Forgotten
 

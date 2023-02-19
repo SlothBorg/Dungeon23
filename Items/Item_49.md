@@ -1,3 +1,3 @@
-* A: **Rings & Jewelry**
-* **Gold**
+Rings & Jewelry
+Gold
 

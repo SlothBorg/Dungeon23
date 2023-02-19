@@ -1,3 +1,3 @@
-* A: **Potions**
-* **Rise**
+Potions
+Rise
 

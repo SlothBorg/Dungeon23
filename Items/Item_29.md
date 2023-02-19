@@ -1,3 +1,3 @@
-* A: **Rings & Jewelry**
-* **Library**
+Rings & Jewelry
+Library
 

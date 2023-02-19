@@ -1,3 +1,3 @@
-* A: **Wands**
-* **Touch**
+Wands
+Touch
 

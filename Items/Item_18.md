@@ -1,3 +1,3 @@
-* A: **Rings & Jewelry**
-* **Ocean**
+Rings & Jewelry
+Ocean
 

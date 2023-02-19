@@ -1,3 +1,3 @@
-* A: **Weapons**
-* **Blood**
+Weapons
+Blood
 
