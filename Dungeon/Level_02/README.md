@@ -20,4 +20,8 @@ flowchart TD
     B13 <--> B14[Room 14]
     B12 <--> B14
     La <----> B15[Room 15]
+    B15 <--> B16[Room 16]
+    B16 <--> B17[Room 17]
+    B17 <--> B18[Room 18]
+    
 ```

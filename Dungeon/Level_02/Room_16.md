@@ -1,4 +1,4 @@
-You climb down the worm things gullet, a strange experiance as it's flesh helps you down forming hand holds and undulating to meet your feet.
+You climb down the worm things gullet, a strange experience as it's flesh helps you down forming hand holds and undulating to meet your feet.
 
 You reach a "chamber", the word seems wrong, a flash squishy fleshy floor, and walls of the same arch over you. 
 
