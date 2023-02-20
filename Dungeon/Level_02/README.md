@@ -22,6 +22,9 @@ flowchart TD
     La <----> B15[Room 15]
     B15 <--> B16[Room 16]
     B16 <--> B17[Room 17]
-    B17 <--> B18[Room 18]
+    B16 <--> B18[Room 18]
+    B17 <--> B18
+    B16 <--> B19[Room 19]
+    B18 <--> B19
     
 ```
