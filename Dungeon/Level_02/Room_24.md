@@ -1,4 +1,4 @@
-The tunnel opens into a large half flooded cave, dominated by the broken wreck of a wooden ship. 
+Down a side passage off the tunnel you see a large half flooded cave, dominated by the broken wreck of a wooden ship. 
 
 The ship is too large to have entered the cave by any of the existing entrances. 
 

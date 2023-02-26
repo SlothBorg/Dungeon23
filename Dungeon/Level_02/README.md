@@ -32,4 +32,9 @@ flowchart TD
     B17 <--> B21
     B18 <--> B21
     B21 <--> B22[Room 22]
+    B22 <--> B23[Room 23]
+    B23 <--> La
+    B23 <--> B24[Room 24]
+    B24 <--> La
+    B24 <--> B25[Room 25]
 ```

@@ -11,3 +11,7 @@ The stones surface is intricately carved, with references to landmarks and ley l
 ### More Info:
 
 * The stone is a treasure map.
+
+#### Rumor & Local Lore
+
+* In the early years of the **City of Bastion** a famous pirate captain and his ship raided and harassed the fledgling city. No one is sure what happened to the ship, the captain or the treasures they had plundered.
