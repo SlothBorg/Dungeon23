@@ -36,3 +36,6 @@ class City:
 
     def get_file_path(self):
         return '/City/District_' + str(f'{self.today.month:02}') + '/' + str(f'{self.today.day:02}') + '_' + self.get_day_to_schedule() + '.md'
+
+    def get_file_dir(self):
+        return '/City/District_' + str(f'{self.today.month:02}' + '/')

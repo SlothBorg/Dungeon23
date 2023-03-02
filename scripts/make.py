@@ -1,10 +1,11 @@
 from datetime import datetime, date
+import pathlib
 from pkgs.city import City
 from pkgs.door import Door
 from pkgs.room import Room
 from pkgs.item import Item
-from os import path
 from os import getcwd
+from os import path
 from shutil import copy
 
 
@@ -13,6 +14,15 @@ def create_file(project, project_string):
 
     if path.exists(template_file):
         output_file = path.join(getcwd() + project.get_file_path())
+
+
+        if project.get_file_dir() is not None:
+            dir_path = path.join(getcwd() + project.get_file_dir())
+
+            if not path.isdir(dir_path):
+                print('Dir: ' + dir_path + ' does not exist.')
+                print('making dir')
+                pathlib.Path(dir_path).mkdir(exist_ok=True)
 
         if not path.exists(output_file):
             if project_string is not None:

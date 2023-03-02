@@ -94,3 +94,6 @@ class Door:
 
     def get_file_path(self):
         return self.file_path_base + '/Landing_' + str(date.today().timetuple().tm_yday) + '.md'
+
+    def get_file_dir(self):
+        return None

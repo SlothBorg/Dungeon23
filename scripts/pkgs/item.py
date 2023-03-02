@@ -86,3 +86,6 @@ class Item:
 
     def get_file_path(self):
         return self.file_path_base + '/Item_' + str(date.today().timetuple().tm_yday) + '.md'
+
+    def get_file_dir(self):
+        return None

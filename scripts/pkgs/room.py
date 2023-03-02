@@ -54,3 +54,6 @@ class Room:
 
     def get_file_path(self):
         return '/Dungeon/Level_' + str(f'{self.today.month:02}') + '/Room_' + str(f'{self.today.day:02}') + '.md'
+
+    def get_file_dir(self):
+        return '/Dungeon/Level_' + str(f'{self.today.month:02}')
