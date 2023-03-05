@@ -6,5 +6,10 @@ Level 3 is dominated by a vast maze, and thus there is little to make a flowchar
 flowchart TD
     B06[Level 2 Room 06] <---> C1[Room 1]
     A31[Level 1 Room 31] <--> B11[Level 2 Room 11] <--> Maze
-    C1 <--> C2[Room 2]
+    Blood[Blood maze section] <-->C2[Room 02]
+    Blood <--> C3[Room 03]
+    
+    Darkness[Darkness maze section]
+    
+    Inferno[Inferno maze section]
 ```
