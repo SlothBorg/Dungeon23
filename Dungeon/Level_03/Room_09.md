@@ -2,7 +2,7 @@ Mirrors line this 60ft straight section of maze ahead of you.
 
 Several of the mirrors are shattered their broken frames hung around bloodied and slumped corpses.
 
-As you look down the hall you catch hints of movement, surly just shadows from the light reflecting off so many mirrors ... surly.
+As you look down the hall you catch hints of movement, surely just shadows from the light reflecting off so many mirrors ... surely.
 
 ---
 
