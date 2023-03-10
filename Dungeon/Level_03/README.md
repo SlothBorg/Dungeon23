@@ -26,5 +26,8 @@ flowchart TD
     Blood <--> C3[Room 03]
     Blood <--> C4[Room 04]
     Blood <--> C5[Room 05] <--> C6[Room 06] <-- secret door --> Blood
+    Blood <--> C7[Room 07]
+    Blood <--> C8[Room 08]
+    Blood <--> C9[Room 09]
 
 ```
