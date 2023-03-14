@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <title>Level 1 - Dungeon 23</title>
+        <link href="../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css">
+
+        <script src="../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../js/bootstrap.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../..">Dungeon 23</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="navitem">
+                                <a href="../.." class="nav-link">Home</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="../../City/" class="nav-link">#City23</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="../" class="nav-link">#Dungeon23</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="../../Staircase/" class="nav-link">#Staircase23</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="../../Resource/" class="nav-link">Resources</a>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#level-1" class="nav-link">Level 1</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="level-1">Level 1</h1>
+<pre><code class="language-mermaid">flowchart TD
+    A1[Room 1] --&gt; A6[Room 6]
+    A6 &lt;---&gt; St[Stream]
+    A1 &lt;---&gt; C[Catacombs]
+    A1 --&gt; A2[Room 2]
+    A2 --&gt; A3[Room 3]
+    A3 --&gt; A7[Room 7]
+    Su[Surface] ---&gt; A3
+    A7 ---&gt; St
+    A3 &lt;---&gt; C
+    A4[Room 4] &lt;---&gt; C
+    A5[Room 5] &lt;--&gt; St
+    A8[Room 8] &lt;---&gt; C
+    A8 &lt;--&gt; A9[Room 9]
+    A9 &lt;--&gt; A10[Room 10 - Goblin town]
+    A11[Room 11] &lt;---&gt; C
+    A11 &lt;--&gt; A12[Room 12]
+    A12 &lt;----&gt; A10
+    A12 &lt;--&gt; A13[Room 13]
+    A12 --&gt; A14[Room 14]
+    A14 &lt;--&gt; A10
+    A14 &lt;---&gt; A31[room 31]
+    A10 &lt;---&gt; A15[Room 15]
+    A10 &lt;--&gt; A16[Room 16]
+    A15 &lt;--&gt; A16
+    A17[Room 17] &lt;--&gt; A18[Room 18] &lt;--&gt; A19[Room 19]
+    Su ---&gt; A17
+    A17 &lt;----&gt; C
+    A10 &lt;-----&gt; A20[Room 20]
+    A20 &lt;----&gt; U
+    A19 &lt;---&gt; A21[Room 21]
+    A21 &lt;--&gt; A22[Room 22]
+    A22 &lt;--&gt; A23[Room 23]
+    A22 &lt;--&gt; A24[Room 24]
+    A22 &lt;--&gt; A25[Room 25]
+    A22 &lt;--&gt; A26[Room 26]
+    A22 &lt;-.-&gt; A27[Room 27]
+    A27 &lt;---&gt; A28[Room 28]
+    A10 &lt;-----&gt; A28
+    A28 &lt;--&gt; U[Underdark]
+    A28 &lt;--&gt; A29[Room 29]
+    A29 &lt;--&gt; U
+    A30[Room 30] &lt;--&gt; Su
+    A30 &lt;--&gt; A17
+    A30 &lt;----&gt; A10
+
+</code></pre>
+<!-- 
+
+## Week 1
+
+The first level, exists on a roughly two different planes, with [Room 6](Room_06.md), and the stream that connects [Room 6](Room_06.md) and [Room 7](Room_07.md) on one level, and the rest of the rooms on another. 
+
+[Room 1](Room_01.md) and [Room 5](Room_05.md) both connect to the water level.
+
+[Room 2](Room_02.md) slops downward, so [Room 7](Room_07.md) and the floor of [Room 3](Room_03.md) are both bellow the other rooms, but above [Room 6](Room_06.md) and it's stream.
+
+Both [Room 1](Room_01.md) and [Room 2](Room_02.md) can be accessed from above. 
+
+
+### Week 1, all rooms
+![All of week one](img/week_1/combined.png "All of week 1")
+
+### Diagram showing the vertical relationship between rooms.
+![Vertical layout](img/week_1/Vertial_layout.png "Vertical Layout of Week 1")
+
+### Just the 'Catacomb' layer
+![Alt Week 1, areas 1, 2, 3, 4, 5, & 7](img/week_1/catacombs.png "Week 1, areas 1, 2, 3, 4, 5, & 7")
+
+### Just the 'Water' layer
+![Week 1, area 6](img/week_1/water.png "Week 1, area 6")
+
+--></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../js/base.js" defer></script>
+        <script src="../../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
