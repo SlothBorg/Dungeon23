@@ -31,5 +31,6 @@ flowchart TD
     Blood <--> C9[Room 09]
     Blood <--> C10[Room 10]
     Blood <--> C11[Room 11]
+    Blood <--> C12[Room 12]
 
 ```
