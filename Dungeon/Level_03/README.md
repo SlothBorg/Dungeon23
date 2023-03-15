@@ -34,3 +34,11 @@ flowchart TD
     Blood <--> C12[Room 12]
 
 ```
+
+## Darkness section
+```mermaid
+flowchart TD
+    Blood[Blood maze section] <-->C13[Room 13]
+    Blood <--> C14[Room 14]
+
+```
