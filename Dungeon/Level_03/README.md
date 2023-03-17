@@ -40,5 +40,7 @@ flowchart TD
 flowchart TD
     Blood[Blood maze section] <-->C13[Room 13]
     Blood <--> C14[Room 14]
+    Blood <--> C15[Room 15]
+    Blood <--> C16[Room 16]
 
 ```
