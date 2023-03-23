@@ -49,3 +49,10 @@ flowchart TD
     Blood <--> C21[Room 21]
 
 ```
+
+## Inferno section
+```mermaid
+flowchart TD
+    Blood[Inferno maze section] <-->C22[Room 22]
+    
+```
