@@ -9,7 +9,7 @@ I am designing this dungeon as a series of rooms / encounters to be used in what
 
 For ease of understanding I'll map out each week, but it is in no way the fixed or definitive layout, more a suggestions.
 
-# [Enter the Dungeon](Dungeon/Level%201/README.md)
+# [Enter the Dungeon](Dungeon/Level_01/README.md)
 
 ---
 
