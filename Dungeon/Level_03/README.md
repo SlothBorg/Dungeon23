@@ -55,4 +55,5 @@ flowchart TD
 flowchart TD
     Inferno[Inferno maze section] <-->C22[Room 22]
     Inferno <--> C23[Room 23]
+    Inferno <--> C24[Room 24]
 ```
