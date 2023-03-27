@@ -57,4 +57,6 @@ flowchart TD
     Inferno <--> C23[Room 23]
     Inferno <--> C24[Room 24]
     Inferno <--> C25[Room 25]
+    Inferno <--> C26[Room 26]
+    Inferno <--> C27[Room 27]
 ```
