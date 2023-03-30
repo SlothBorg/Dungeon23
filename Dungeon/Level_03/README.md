@@ -14,9 +14,11 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    C1[Room 1] <--> Blood[Blood maze section] <--> C31[Room 31]
-    C1[Room 1] <--> Darkness[Darkness maze section] <--> C31
-    C1[Room 1] <--> Inferno[Inferno maze section] <--> C31
+    C1[Room 1] <--> Blood[Blood maze section] <--> C29[Room 29]
+    C1[Room 1] <--> Darkness[Darkness maze section] <--> C29
+    C1[Room 1] <--> Inferno[Inferno maze section] <--> C29
+    C29 <--> C30[Room 30] 
+    C30 <--> C31[Room 31]
 ```
 
 ## Blood section
@@ -32,6 +34,7 @@ flowchart TD
     Blood <--> C10[Room 10]
     Blood <--> C11[Room 11]
     Blood <--> C12[Room 12]
+    Blood <--> C29[Room 29]
 
 ```
 
@@ -47,6 +50,7 @@ flowchart TD
     Darkness <--> C19[Room 19]
     Darkness <--> C20[Room 20]
     Darkness <--> C21[Room 21]
+    Darkness <--> C29[Room 29]
 
 ```
 
@@ -59,4 +63,6 @@ flowchart TD
     Inferno <--> C25[Room 25]
     Inferno <--> C26[Room 26]
     Inferno <--> C27[Room 27]
+    C27 <--> C28[Room 28]
+    Inferno <--> C29[Room 29]
 ```
