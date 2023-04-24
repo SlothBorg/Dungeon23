@@ -8,4 +8,4 @@ The figure rises in a mockery of living movement and in a shrill bone like voice
 
 * The skeleton is presented as lich, however is not... a final joke left behind by itself.
 * The fake lich can respond to simple questions through magic.
-* it threatens any intruders demanding wealth and magic and commanding them to flee!
+* It threatens any intruders demanding wealth and magic and commanding them to flee!
