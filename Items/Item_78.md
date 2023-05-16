@@ -1,3 +1,0 @@
-Luck
-Books & Scrolls
-

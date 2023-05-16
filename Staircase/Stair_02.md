@@ -1,1 +1,0 @@
-Solid **planks of weathered wood** float in **cool mist**. Each plank bobs in the mist, when you set your foot upon the first, it is as solid as if it were rock.

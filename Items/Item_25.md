@@ -1,3 +1,0 @@
-Wands
-Touch
-

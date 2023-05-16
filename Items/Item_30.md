@@ -1,3 +1,0 @@
-Staffs
-Hangman
-

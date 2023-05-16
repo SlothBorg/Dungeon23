@@ -1,3 +1,0 @@
-Luck
-Rings & Jewelry
-

@@ -1,7 +1,0 @@
-## {NAME}
-
-### Background
-
-### Goals
-
-### Secrets

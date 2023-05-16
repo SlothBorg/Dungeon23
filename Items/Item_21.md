@@ -1,3 +1,0 @@
-Armor
-Heavy
-

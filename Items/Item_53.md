@@ -1,3 +1,0 @@
-Ancient
-Books & Scrolls
-

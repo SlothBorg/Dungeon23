@@ -1,1 +1,0 @@
-Your feet **clang** of **rusted metal grating** strange **chirps** and other noises fill the air. The stair winds it's way though a **maze of pipes and metal beams**.

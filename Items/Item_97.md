@@ -1,3 +1,0 @@
-Prophet
-Potions
-

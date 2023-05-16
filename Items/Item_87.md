@@ -1,3 +1,0 @@
-Incense
-Books & Scrolls
-

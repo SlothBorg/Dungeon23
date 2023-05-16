@@ -1,3 +1,0 @@
-Cold
-Wands
-

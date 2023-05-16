@@ -1,7 +1,0 @@
-# The Below
-
-
-
----
-
-{{ INDEX }}

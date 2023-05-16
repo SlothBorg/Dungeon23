@@ -1,4 +1,0 @@
-## {NAME}
-
-### Things of note
-

@@ -19,7 +19,7 @@ class Item:
         'Time',
         'Excess',
         'Decay',
-        'City',
+        'City23',
         'Factory',
         'Flood',
         'Sleep',

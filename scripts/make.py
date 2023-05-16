@@ -1,63 +1,96 @@
-from datetime import datetime, date
-import pathlib
-from pkgs.city import City
-from pkgs.door import Door
-from pkgs.room import Room
-from pkgs.item import Item
+from datetime import date, timedelta
+from calendar import monthrange
 from os import getcwd
 from os import path
+import pathlib
 from shutil import copy
 
+START_DATE = date(2023, 1, 1)
+TODAY = date.today()
+MONTH = TODAY.month
+YEAR = TODAY.year
 
-def create_file(project, project_string):
-    template_file = path.dirname(path.realpath(__file__)) + project.get_template_path()
-
-    if path.exists(template_file):
-        output_file = path.join(getcwd() + project.get_file_path())
+PROJECTS = {
+    'Dungeon': 'Level',
+}
 
 
-        if project.get_file_dir() is not None:
-            dir_path = path.join(getcwd() + project.get_file_dir())
+def date_range(start, end):
+    for n in range(int((end - start).days) + 1):
+        yield START_DATE + timedelta(n)
 
+
+def get_month(date_string):
+    return date_string.month
+
+
+def validate_dirs(outer_dir, prefix):
+    dir_path = path.join(getcwd(), outer_dir)
+
+    if not path.exists(dir_path):
+        if not path.isdir(dir_path):
+            pathlib.Path(dir_path).mkdir(exist_ok=True)
+            write_file(dir_path, 'README.md', '')
+
+    for i in range(1, MONTH + 1):
+        dir_name = prefix + '_' + f'{i:02}'
+        dir_path = path.join(getcwd(),  path.join(outer_dir, dir_name))
+
+        if not path.exists(dir_path):
             if not path.isdir(dir_path):
-                print('Dir: ' + dir_path + ' does not exist.')
-                print('making dir')
                 pathlib.Path(dir_path).mkdir(exist_ok=True)
+                write_file(dir_path, 'README.md', '')
 
-        if not path.exists(output_file):
-            if project_string is not None:
-                with open(template_file, 'r') as f:
-                    file_data = f.readlines()
 
-                for index, line in enumerate(file_data):
-                    if '{{ CONTENT }}' in line:
-                        file_data[index] = line.replace('{{ CONTENT }}', project_string)
+def write_file(file_path, name, content):
+    file_path = path.join(getcwd(), path.join(file_path, name))
 
-                with open(output_file, 'w') as f:
-                    f.writelines(file_data)
-            else:
-                copy(template_file, output_file)
+    if not path.exists(file_path):
+        with open(file_path,  'w') as f:
+            f.writelines(content)
 
-            print(project.get_name() + ' created.')
 
-        else:
-            print('SKIPPING: ' + output_file + ' it already exists!')
-
+def validate_files(project, month):
+    if month == MONTH:
+        day_count = TODAY.day + 1
     else:
-        print('ERROR: Template ' + template_file + ' does not exist')
+        day_count = monthrange(YEAR, month)[1] + 1
+
+    for day in range(1, day_count):
+        file_name = path.join('Level_' + f'{month:02}', 'Room_' + f'{day:02}' + '.md')
+        dir_name = path.join(project, file_name)
+
+        file_path = path.join(getcwd(), dir_name)
+
+        if not path.exists(file_path):
+            write_file
 
 
-projects = [
-    City(),
-    Door(),
-    Room(),
-    Item(),
-]
 
-print("Day: ", datetime.now().timetuple().tm_yday, "\n")
+for directory in PROJECTS:
+#     validate_dirs(directory, PROJECTS[directory])
+    validate_files(directory, 5)
+#
 
-for project in projects:
-    print('Making ' + project.get_name())
-    project_string = project.create()
-    create_file(project, project_string)
-    print()
+
+
+# for single_date in date_range(START_DATE, END_DATE):
+#     get_month(single_date)
+#     print(single_date.strftime("%Y-%m-%d"))
+
+# def get_week(self):
+#     return int(date(self.today.year, self.today.month, self.today.day).strftime("%U"))
+
+# today = datetime.now()
+# month = today.month
+# day_number = today.timetuple().tm_yday
+#
+# print("Today is day:", day_number, "of", today.year)
+# print(month)
+#
+# projects = [
+#     'Dungeon',
+# ]
+#
+# for directory in projects:
+#     print(directory)

@@ -1,1 +1,0 @@
-**Shadows** play across the **cold stone work** of the landing, the shape of a door appears and disappears.
