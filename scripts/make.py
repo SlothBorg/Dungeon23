@@ -30,7 +30,9 @@ def validate_dirs(outer_dir, prefix):
     if not path.exists(dir_path):
         if not path.isdir(dir_path):
             pathlib.Path(dir_path).mkdir(exist_ok=True)
-            write_file(dir_path, 'README.md', '')
+
+            file_path = path.join(dir_path, 'README.md')
+            write_file(file_path)
 
     for i in range(1, MONTH + 1):
         dir_name = prefix + '_' + f'{i:02}'
@@ -39,14 +41,16 @@ def validate_dirs(outer_dir, prefix):
         if not path.exists(dir_path):
             if not path.isdir(dir_path):
                 pathlib.Path(dir_path).mkdir(exist_ok=True)
-                write_file(dir_path, 'README.md', '')
+
+                file_path = path.join(dir_path, 'README.md')
+                write_file(file_path)
 
 
-def write_file(file_path, name, content):
-    file_path = path.join(getcwd(), path.join(file_path, name))
-
+def write_file(file_path, content=''):
     if not path.exists(file_path):
-        with open(file_path,  'w') as f:
+        print(file_path)
+        print(path.exists(file_path))
+        with open(file_path, 'w') as f:
             f.writelines(content)
 
 
@@ -63,12 +67,11 @@ def validate_files(project, month):
         file_path = path.join(getcwd(), dir_name)
 
         if not path.exists(file_path):
-            write_file
-
+            write_file(file_path)
 
 
 for directory in PROJECTS:
-#     validate_dirs(directory, PROJECTS[directory])
+    validate_dirs(directory, PROJECTS[directory])
     validate_files(directory, 5)
 #
 
