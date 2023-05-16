@@ -1,9 +1,8 @@
+import sys
 from datetime import date, timedelta
 from calendar import monthrange
-from os import getcwd
-from os import path
+from os import getcwd, path, stat
 import pathlib
-from shutil import copy
 
 START_DATE = date(2023, 1, 1)
 TODAY = date.today()
@@ -14,20 +13,20 @@ PROJECTS = {
     'Dungeon': 'Level',
 }
 
+BOLD_START = "\033[1m"
+BOLD_END = "\033[0;0m"
+
 
 def date_range(start, end):
     for n in range(int((end - start).days) + 1):
         yield START_DATE + timedelta(n)
 
 
-def get_month(date_string):
-    return date_string.month
-
-
 def validate_dirs(outer_dir, prefix):
     dir_path = path.join(getcwd(), outer_dir)
 
     if not path.exists(dir_path):
+        print('{}{}{} does not exist... creating it'.format(BOLD_START, outer_dir, BOLD_END))
         if not path.isdir(dir_path):
             pathlib.Path(dir_path).mkdir(exist_ok=True)
 
@@ -39,6 +38,7 @@ def validate_dirs(outer_dir, prefix):
         dir_path = path.join(getcwd(),  path.join(outer_dir, dir_name))
 
         if not path.exists(dir_path):
+            print('{}{}{} does not exist... creating it'.format(BOLD_START, dir_name, BOLD_END))
             if not path.isdir(dir_path):
                 pathlib.Path(dir_path).mkdir(exist_ok=True)
 
@@ -48,8 +48,6 @@ def validate_dirs(outer_dir, prefix):
 
 def write_file(file_path, content=''):
     if not path.exists(file_path):
-        print(file_path)
-        print(path.exists(file_path))
         with open(file_path, 'w') as f:
             f.writelines(content)
 
@@ -68,32 +66,21 @@ def validate_files(project, month):
 
         if not path.exists(file_path):
             write_file(file_path)
-
-
-for directory in PROJECTS:
-    validate_dirs(directory, PROJECTS[directory])
-    validate_files(directory, 5)
-#
+        elif stat(file_path).st_size == 0:
+            print('{} ... is empty'.format(file_name))
 
 
 
-# for single_date in date_range(START_DATE, END_DATE):
-#     get_month(single_date)
-#     print(single_date.strftime("%Y-%m-%d"))
+def main():
+    month = 0
+    for single_date in date_range(START_DATE, TODAY):
+        for directory in PROJECTS:
+            validate_dirs(directory, PROJECTS[directory])
 
-# def get_week(self):
-#     return int(date(self.today.year, self.today.month, self.today.day).strftime("%U"))
+        if single_date.month != month:
+            month = single_date.month
+            validate_files(directory, month)
 
-# today = datetime.now()
-# month = today.month
-# day_number = today.timetuple().tm_yday
-#
-# print("Today is day:", day_number, "of", today.year)
-# print(month)
-#
-# projects = [
-#     'Dungeon',
-# ]
-#
-# for directory in projects:
-#     print(directory)
+
+if __name__ == '__main__':
+    sys.exit(main())
