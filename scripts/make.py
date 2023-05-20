@@ -6,9 +6,10 @@ import pathlib
 
 TODAY = datetime.now().timetuple().tm_yday
 
-PROJECTS = {
-    'Dungeon': 'Room',
-}
+PROJECTS = [
+    'Dungeon',
+    'World',
+]
 
 BOLD_START = "\033[1m"
 BOLD_END = "\033[0;0m"
@@ -27,8 +28,11 @@ def validate_files(project_name):
             write_file(file_path)
 
     for day in range(1, TODAY + 1):
-        file_name = path.join('{}_{}.md'.format(PROJECTS[project_name], f'{day:02}'))
+        sub_dir_path = path.join(dir_path, get_month(day))
 
+        print(sub_dir_path)
+
+        file_name = f'{day:02}' + '.md'
         dir_name = path.join(project_name, file_name)
         file_path = path.join(getcwd(), dir_name)
 
@@ -45,7 +49,13 @@ def write_file(file_path, content=''):
             f.writelines(content)
 
 
+def get_month(current_day):
+    date_object = datetime(datetime.now().year, 1, 1) + timedelta(days=current_day - 1)
+    return f'{date_object.strftime("%m"):02}'
+
+
 def main():
+
     for directory in PROJECTS:
         validate_files(directory)
 
