@@ -1,49 +1,42 @@
 import sys
-from datetime import date, timedelta
+from datetime import datetime, date, timedelta
 from calendar import monthrange
 from os import getcwd, path, stat
 import pathlib
 
-START_DATE = date(2023, 1, 1)
-TODAY = date.today()
-MONTH = TODAY.month
-YEAR = TODAY.year
+TODAY = datetime.now().timetuple().tm_yday
 
 PROJECTS = {
-    'Dungeon': 'Level',
+    'Dungeon': 'Room',
 }
 
 BOLD_START = "\033[1m"
 BOLD_END = "\033[0;0m"
 
 
-def date_range(start, end):
-    for n in range(int((end - start).days) + 1):
-        yield START_DATE + timedelta(n)
-
-
-def validate_dirs(outer_dir, prefix):
-    dir_path = path.join(getcwd(), outer_dir)
+def validate_files(project_name):
+    dir_path = path.join(getcwd(), project_name)
 
     if not path.exists(dir_path):
-        print('{}{}{} does not exist... creating it'.format(BOLD_START, outer_dir, BOLD_END))
+        print('{}{}{} does not exist... creating it'.format(BOLD_START, project_name, BOLD_END))
         if not path.isdir(dir_path):
             pathlib.Path(dir_path).mkdir(exist_ok=True)
 
+            print('{}README.md{} does not exist... creating it'.format(BOLD_START, BOLD_END))
             file_path = path.join(dir_path, 'README.md')
             write_file(file_path)
 
-    for i in range(1, MONTH + 1):
-        dir_name = prefix + '_' + f'{i:02}'
-        dir_path = path.join(getcwd(),  path.join(outer_dir, dir_name))
+    for day in range(1, TODAY + 1):
+        file_name = path.join('{}_{}.md'.format(PROJECTS[project_name], f'{day:02}'))
 
-        if not path.exists(dir_path):
-            print('{}{}{} does not exist... creating it'.format(BOLD_START, dir_name, BOLD_END))
-            if not path.isdir(dir_path):
-                pathlib.Path(dir_path).mkdir(exist_ok=True)
+        dir_name = path.join(project_name, file_name)
+        file_path = path.join(getcwd(), dir_name)
 
-                file_path = path.join(dir_path, 'README.md')
-                write_file(file_path)
+        if not path.exists(file_path):
+            print('{}{}{} does not exist... creating it'.format(BOLD_START, file_name, BOLD_END))
+            write_file(file_path)
+        if stat(file_path).st_size == 0:
+            print('{}{}{} ... is empty'.format(BOLD_START, file_name, BOLD_END))
 
 
 def write_file(file_path, content=''):
@@ -52,34 +45,9 @@ def write_file(file_path, content=''):
             f.writelines(content)
 
 
-def validate_files(project, month):
-    if month == MONTH:
-        day_count = TODAY.day + 1
-    else:
-        day_count = monthrange(YEAR, month)[1] + 1
-
-    for day in range(1, day_count):
-        file_name = path.join('Level_' + f'{month:02}', 'Room_' + f'{day:02}' + '.md')
-        dir_name = path.join(project, file_name)
-
-        file_path = path.join(getcwd(), dir_name)
-
-        if not path.exists(file_path):
-            write_file(file_path)
-        elif stat(file_path).st_size == 0:
-            print('{} ... is empty'.format(file_name))
-
-
-
 def main():
-    month = 0
-    for single_date in date_range(START_DATE, TODAY):
-        for directory in PROJECTS:
-            validate_dirs(directory, PROJECTS[directory])
-
-        if single_date.month != month:
-            month = single_date.month
-            validate_files(directory, month)
+    for directory in PROJECTS:
+        validate_files(directory)
 
 
 if __name__ == '__main__':

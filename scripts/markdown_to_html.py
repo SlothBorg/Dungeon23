@@ -4,7 +4,6 @@ from os import path
 
 DIRECTORIES = [
 	'Dungeon',
-	'Staircase',
 ]
 FILES_LIST = []
 
@@ -29,7 +28,6 @@ def markdown_to_html(file_path):
 		html_file_path = file_path.replace('.md', '.html')
 		
 		markdown.markdownFromFile(input=file_path, output=html_file_path)
-
 
 
 if __name__ == '__main__':
